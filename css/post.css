@@ -18,3 +18,15 @@
 	margin-top: 20px;
 	color: #316882;
 }
+.post h1, .post p{
+	display: block !important;
+	margin: 2% !important;
+}
+
+.post li{
+	list-style: decimal !important;
+}
+
+.post ol, .post ul{
+	margin-left: 7% !important;
+}

@@ -10,7 +10,7 @@ class: ch-img-7
 
 Knowing where one’s <s>towel</s> lab is
 
-#Research
+\#Research
 
 There is a theory which states that human beings have managed to exist on this planet for so long because of their infallible inquisition and ability to systematically investigate, study and reach at explicable conclusions, henceforth referred to as research. There is another theory which states that since we are all ultimately going to die and spend the rest of our time in the universe as tiny carbon particles moving around in the limitless abyss of space, there isn't much point in existing at all.
 
