@@ -1,27 +1,44 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sports and other trivialities"
 date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
-excerpt: It works!
-class: ch-img-1
+excerpt: IITR has incontestably one of the best sports facilities amongst all other IITs as you might have already heard.
+class: ch-img-9
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+---------------------------------------------
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+IITR has incontestably one of the best sports facilities amongst all other IITs as you might have already heard. What you might not have heard is that it also has a highly effective administration that functions to make sure that these facilities are best made use of. It is so because the latter is doubtful.
 
-Jekyll also offers powerful support for code snippets:
+###The sorting
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Right after your orientation week, you will be torn between three different choices: NSO, NCC and NSS. Rest assured, they don’t use talkative hats to sort you. Plain old chits get the job done for NCC and NSS. There are, however, trials for the selection into NSO (that’s short for National Sports Organization) where you will have a large number of sports to choose from. While NSO students usually crib about exhaustive practise sessions which involve running, and some more running; follow the regime earnestly and rest assured- you will not regret the improvement in your fitness at the end of the year.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+_(Crack Sheet: Getting selected for Cricket is tough; it usually witnesses a large number of participants. Weightlifting and squash are relatively easier to crack. If, however, you have no particular preference for any sport and are choosing NSO for lack of options- Basketball (though again, tough to get in) is where all the hot chicks go.)_
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+###Inter-IIT
+
+The Inter IIT is the Olympics of the IIT fraternity. It is more or less the ultimate test of your dedication to the sports field. Getting selected in the team is incredibly tough _(that applies for all the sports- maybe except weightlifting)_ as you need to compete with other athletes, irrespective of your year or branch. The perks of triumphing at this scale are very high. While winning medals will not only help you during placements, it might make for a popular profile picture, and may even earn you a little on-campus fan following of your own.
+
+###Places of Interests
+
+__1) Lal Bahadur Shastri Stadium:__ LBS is accredited as our institute’s only helipad cum athletic track cum cricket field cum jogging track. It shares a boundary with the basketball court and witnesses a surge in the number of students on the ground at about 6:30 every evening- which incidentally is just about when the basketball girls come for practice. It is widely believed that early in the morning NSO proficiency holders can be seen sweating it out on the LBS ground.
+
+__2) Olympic size swimming pool:__ In case you don’t know how to swim, you can skip this part. The rest just need to know two things about the pool: It’s big and it’s out of use for the better part of the year _(thanks to the everlasting winter/rainy season in R)_
+
+__3) Football and Hockey fields:__ Two separate fields are dedicated to these two sports. We don’t have much to say about either, as these are not very different from regular fields. But since we need to fill this space with something interesting, here’s a fun fact:  India does not have any national  sport. Hockey being it, is just a widely circulated myth.
+
+__4) Institute Gym:__ The gym is the second most underutilized place in IIT R, right after the Mandi cell (or the Thomso office?). Equipped with the latest body conditioning contraptions, it is open to anyone who is particularly fond of Eminem. Incidentally, the most popular song here is ‘Lose Yourself’. _(We are more of the opinion that Eminem should improve upon his original song and rename it ‘Lose your Flab’)_
+
+The gym is most occupied at the beginning of every fresh semester. Gradually as days pass and motivation levels drop like the charts of a Salman Khan starrer, the people continuing the gym usually end up being one of two kinds: those who form part of the weight-lifting team of IITR or those who wish to make it to the same.
+
+The sports facilities also include courts for
+Basketball
+Lawn Tennis
+Squash
+Badminton
+Volleyball
+Table Tennis
+
+There is also a boating club somewhere in the woods near the Solani  Aqueduct. It’s something that is unique about IITR but since we are mentioning it in the end, you can assume that its current state is not exactly great.
+

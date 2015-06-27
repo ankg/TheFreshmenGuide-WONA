@@ -31,6 +31,19 @@
 	background-position: 30% 30%;
 }
 
+.ch-img-9 { 
+	background-image: url(../images/sports.jpg);
+	background-position: 30% 30%;
+}
+.ch-img-10 { 
+	background-image: url(../images/placements.jpg);
+	background-position: 0% -100px;
+}
+.ch-img-14 { 
+	background-image: url(../images/dictionary.jpg);
+	
+}
+
 .ch-info {
 	position: absolute;
 	width: 100%;
