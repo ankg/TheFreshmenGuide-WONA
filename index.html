@@ -1,0 +1,24 @@
+---
+layout: default
+title: WONA GUIDE
+---
+<div class="container">
+    <section class="main">
+      <ul class="ch-grid">
+        {% for post in site.posts %}
+          {% if post.categories contains 'section' %}
+            <li>
+             <a href="{{post.url}}" target="_blank">
+                <div class="ch-item {{post.class}}">
+                  <div class="ch-info">
+                    <h3>{{post.title}}</h3>
+                    <p>{{post.excerpt}}</p>
+                  </div>
+                </div>
+             </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+</div>

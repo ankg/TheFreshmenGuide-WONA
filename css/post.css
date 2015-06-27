@@ -1,0 +1,10 @@
+.post{
+	text-align: left;
+	max-width: 60%; 
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+}
+.post .post-header{
+	margin-top: 4%;
+}
