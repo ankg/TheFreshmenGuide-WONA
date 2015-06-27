@@ -29,8 +29,8 @@ body{
 }
 
 .ch-grid li {
-	width: 300px;
-	height: 300px;
+	width: 250px;
+	height: 250px;
 	display: inline-block;
-	margin: 20px;
+	margin: 60px;
 }

@@ -3,13 +3,12 @@ layout: post
 title:  "Academics"
 date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
-excerpt: Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years.
+excerpt: "Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years. The authors of the guide would recommend that you keep an eye on it"
 class: ch-img-3
 --- 	
 --------------------------------
 
-In the 4 or 5 long years of undergraduate life, academics act as a centre of gravity of a student’s life. Though the power of the gravitational field varies from person to person, it acts as an innocuous motivation to attend the lectures (That and the 75% attendance rule). The academic structure in IITR, like its sister IITs, involves a credit based approach towards the ultimate CG calculation. There are many intricacies in this system, so without bothering you with too much details, we present a readable and not-so-boring intro to the Academic System. For lack of better terms, we shall call it ACAD-101.
-
+In the 4 or 5 long years of undergraduate life, academics act as a centre of gravity of a student’s life. Though the power of the gravitational field varies from person to person, it acts as an innocuous motivation to attend the lectures (That and the 75% attendance rule). The academic structure in IITR, like its sister IITs, involves a credit based approach towards the ultimate CG calculation. There are many intricacies in this system, so without bothering you with too much details, we present a readable and not-so-boring intro to the Academic System. For lack of better terms, we shall call it ACAD-101.  
 
 ###Courses  
 

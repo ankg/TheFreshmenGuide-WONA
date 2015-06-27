@@ -88,10 +88,12 @@ canvas{
 #particles-js{
   width: 100%;
   height: 100%;
-  /*background-color: transparent;*/
+  background-color: #316882;
   background-image: url('images/iitr_1.jpg');
   background-size: cover;
   background-position: 50% 50%;
-  background-repeat: no-repeat;
+  position:fixed;
+  top:0px;
+  z-index:1;
 }
-/* RGB(9,74,1) rgb(182,25,36)
+/* RGB(9,74,1) rgb(182,25,36) #01334A #6B8490 #094A01 #6B8490
