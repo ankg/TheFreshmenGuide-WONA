@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Academics"
+title:  "campus Groups"
 date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
-excerpt: "Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years. The authors of the guide would recommend that you keep an eye on it"
+excerpt: Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years.
 class: ch-img-3
 --- 	
 --------------------------------
