@@ -5,6 +5,7 @@ date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
 excerpt: An insight into the common terminology used at IITR
 class: ch-img-14
+cover: dictionary_cover.jpg
 ---
 ---------------------------------------------
 

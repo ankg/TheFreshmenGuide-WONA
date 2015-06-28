@@ -30,3 +30,6 @@
 .post ol, .post ul{
 	margin-left: 7% !important;
 }
+.post .post-image{
+	display: block;
+}
