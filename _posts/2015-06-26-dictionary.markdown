@@ -18,79 +18,64 @@ Campus Dictionary
 
 2. Machau / Macha diya:
 
-(v.)The term people use when somebody opens a tightly closed bottle in IIT-R, or does anything of equal value.
-
+(v.)The term people use when somebody opens a tightly closed bottle in IIT-R, or does anything of equal value.<br />
 “Hey, you finally downloaded new  bhajans from  DC++. Macha diya!”
 
 3. Ghissu:
 
-(n.)The kind of person everyone wants to become, but can’t; and therefore subjects those who can to social ridicule. Characterised by high GPA and (generally) absent social life.  Read more.
-
+(n.)The kind of person everyone wants to become, but can’t; and therefore subjects those who can to social ridicule. Characterised by high GPA and (generally) absent social life.  Read more.<br />
 “What! Abhijeet got a grace mark from sir because of his regularity and attention in class and managed to clear his backlog? That ghissu! “
-
-
 
 4. Maal
 
-(n.)Fresh plant leaves with medicinal value.
-
+(n.)Fresh plant leaves with medicinal value.<br />
 “Bahaut tension ho rahi hai bhai. Thoda maal milega?”
 
 5. P (said:Sac-Pee)
 
-(n.)The president of SAC.
-
+(n.)The president of SAC.<br />
 “Hey Rahul. Quick question - which letter comes after ‘O’?” “I don’t know man. I don’t think we are allowed to take His name for no
 
 reason”
 
 6. Bhabhiji
 
-(n.)The girl your wingmate talked to/looked at.
-
+(n.)The girl your wingmate talked to/looked at.<br />
 “Arre, what are your views on Priya? She texted me if I knew whether tomorrow is a holiday or not.”
 “Bhabhiji is totally asking for it man.”
 
 7. Baba
 
-(n.)That guy in every hostel wing who looks like he’ll die from a heart attack any day now. Generally recognised by a receding hairline or a father like attitude towards the other wingmates.
-
+(n.)That guy in every hostel wing who looks like he’ll die from a heart attack any day now. Generally recognised by a receding hairline or a father like attitude towards the other wingmates.<br />
 “Bhai. Jaldi chal. Side waale wing ke baba ka birthday hai!” “Ab kaunse waala?”
 
 8. Chep
 
-(n.)(chep-ness,adj.)Person(generally male) characterised by ludicrous and cheap means to woo/impress/stalk another person(generally female).
-
+(n.)(chep-ness,adj.)Person(generally male) characterised by ludicrous and cheap means to woo/impress/stalk another person(generally female).<br />
 Laughing, “That guy is so after me. He first sent me a friend request and then when I left my notebook in class the other day, picked it up and handed it to me”
 “Hehe. Looks like another chep”
 “Ikr! What is wrong with these IIT guys?!”
 
 9. Dulla
 
-(n.)Person enrolled in a Dual Degree course.
-
+(n.)Person enrolled in a Dual Degree course.<br />
 “Wo Dulla hai yaar. We can’t trust him.”
 
 10. Bakchodi
 
-(v.) Gossips which lead to no logical conclusion. Or in general, gossips which have no logic whatsoever.
-
+(v.) Gossips which lead to no logical conclusion. Or in general, gossips which have no logic whatsoever.<br />
 “Bhai kya bakchodi pel raha hai?”
 
 11. Bakchod
 
-(n.) A term used to describe someone who frequently indulges in Bakchodi. or
-
-A worthless person or thing. or
-
-Any course offered by the Humanities department.
-
+(n.) A term used to describe someone who frequently indulges in Bakchodi. or<br />
+A worthless person or thing. or<br />
+Any course offered by the Humanities department.<br />
 “Rajeev bakchod banda hai yaar. He still believes RG should’ve been the PM of this country.”
 
 12. Bakar
 
-(n.) Gossips in general. Accounts for 80% of all activity inside hostels.
-
+(n.) Gossips in general. Accounts for 80% of all activity inside hostels.<br />
 “Kuch productive karte hai yaar. Kabse bakar kaat rahe hai.”
 
 13. Bandi

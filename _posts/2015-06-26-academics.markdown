@@ -15,9 +15,9 @@ In the 4 or 5 long years of undergraduate life, academics act as a centre of gra
 
 The time of school has passed. Your old, beloved subjects are now replaced by more exciting and challenging (or in some cases, boring and suicidal) courses. Every department has numerous courses. They are classified on the basis of:
 
-__1) Year:__ The core courses of your department (exclusive to your branch) are in the order of increasing dependence. Generally speaking, in the initial two years the courses aim to cover the breadth of all topics in your field. Later on, courses are designed to deepen your knowledge, and teach you the various intricacies of these topics.
+__1. Year:__ The core courses of your department (exclusive to your branch) are in the order of increasing dependence. Generally speaking, in the initial two years the courses aim to cover the breadth of all topics in your field. Later on, courses are designed to deepen your knowledge, and teach you the various intricacies of these topics.
 
-__2) Type:__ Elective courses are additional courses you take after the 1st year in every succeeding semester. They can pertain to science, humanities or management and are mostly of 2-3 credits. They are instituted to allow the student to gather knowledge of fields other than those of his core branch. However, in most cases they have been reduced to an excuse for students to interact with the better looking females of Archi or Chemical branch.
+__2. Type:__ Elective courses are additional courses you take after the 1st year in every succeeding semester. They can pertain to science, humanities or management and are mostly of 2-3 credits. They are instituted to allow the student to gather knowledge of fields other than those of his core branch. However, in most cases they have been reduced to an excuse for students to interact with the better looking females of Archi or Chemical branch.
 
 ###Credits
 
@@ -25,7 +25,7 @@ To put it in a simple manner, the credit of a course is its weight in comparison
 
 To put it in a slightly more complicated manner, credits have something to do with your GPA.
 
-The credit of each course depends upon its relevance to the student’s branch, and on how much time would be spent procrastinating while studying the course during the end sems. Loosely translated to ‘kodi’ in Hindi, the term makes for some very catchy phrases which you shall see in the future.
+The credit of each course depends upon its relevance to the student’s branch, and on how much time would be spent procrastinating while studying the course during the end sems. Loosely translated to _‘kodi’_ in Hindi, the term makes for some very catchy phrases which you shall see in the future.
 
 ###Relative Grading
 

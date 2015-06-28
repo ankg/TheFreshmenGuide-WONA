@@ -8,47 +8,121 @@ class: ch-img-3
 --- 	
 --------------------------------
 
-In the 4 or 5 long years of undergraduate life, academics act as a centre of gravity of a student’s life. Though the power of the gravitational field varies from person to person, it acts as an innocuous motivation to attend the lectures (That and the 75% attendance rule). The academic structure in IITR, like its sister IITs, involves a credit based approach towards the ultimate CG calculation. There are many intricacies in this system, so without bothering you with too much details, we present a readable and not-so-boring intro to the Academic System. For lack of better terms, we shall call it ACAD-101.  
+##The restaurants at the end of the universe
+\#OffCampusLife  
 
-###Courses  
+If the past, present and future of every civilization are characterized by the how, why and 
+where; R would be borderline where. While most afternoons here are spent pondering _‘Where 
+to have lunch today?’_, a few are also spent wondering _‘Why we even bother to check the mess 
+food?’_. However, the ultimate question for almost every inhabitant here still remains _‘Which 
+book to use as an icebreaker in parties when trying to chat with the opposite sex?’_  
 
-The time of school has passed. Your old, beloved subjects are now replaced by more exciting and challenging (or in some cases, boring and suicidal) courses. Every department has numerous courses. They are classified on the basis of:
+The sole purpose of this guide's existence is to serve as an answer to this question. For reasons 
+not limited to establishing authority, we shall also make an attempt to cover the other, more 
+trivial, things.  
 
-__1) Year:__ The core courses of your department (exclusive to your branch) are in the order of increasing dependence. Generally speaking, in the initial two years the courses aim to cover the breadth of all topics in your field. Later on, courses are designed to deepen your knowledge, and teach you the various intricacies of these topics.
+By now, we have already established that IIT R is big. No, not space- big. Not even KGP-big. We 
+are probably peanuts to either. But we are big enough. What this means is that we can afford 
+to spend ludicrous amounts  of land to serve as vast green spaces (stepping on which might get 
+you  shot), to start endless construction projects promising inhabitants the juicy insides of a 
+McChicken, or to _serve as offering to the winning team of the annual Inter IIT._  
 
-__2) Type:__ Elective courses are additional courses you take after the 1st year in every succeeding semester. They can pertain to science, humanities or management and are mostly of 2-3 credits. They are instituted to allow the student to gather knowledge of fields other than those of his core branch. However, in most cases they have been reduced to an excuse for students to interact with the better looking females of Archi or Chemical branch.
+While life goes on inside, it thrives outside the campus. We began with the dilemma students 
+face to decide which restaurant to have lunch in. This is not because we have a lot of options, 
+but mainly because there is very little differentiating either. If you want to have, say, Italian or 
+Continental or Mongolian-African-American -extra-spicy, well, forget it. However, if you wish to 
+treat yourself with a little paneer or chana-masala, well, here you go…  
 
-###Credits
+The restaurants that exist outside the campus to serve as places to eat other than the mess and  
+the canteens, offer very little for too much. In all this, perhaps the tea point by the side of the 
+bus stand would be your second best option. The best, of course, would be the guy you think 
+you know who just came back from home with a really heavy backpack.  
 
-To put it in a simple manner, the credit of a course is its weight in comparison to other courses. 
+So, you can try the following places, _just_ for a change:  
 
-To put it in a slightly more complicated manner, credits have something to do with your GPA.
+###Prakash
+The ultimate destination for nearly all of IITR junta seeking plain-vegetarian, budget-friendly 
+meals. Their recipe of Paneer Butter Masala is a well-guarded secret. Legend says that once a 
+dog discovered their recipe by accident. A few eyebrows were raised when soon after hot dogs 
+were included in their menu.  
 
-The credit of each course depends upon its relevance to the student’s branch, and on how much time would be spent procrastinating while studying the course during the end sems. Loosely translated to ‘kodi’ in Hindi, the term makes for some very catchy phrases which you shall see in the future.
+###Sagar
+When people can’t get into Prakash, they go to Sagar. Period.
+(PS: Sagar does serve a really good Club Sandwich, which tastes even better after its 
+depressingly slow service.).  
 
-###Relative Grading
+###RP (Royal Palace)
+Situated near Century Gate, Royal Palace is yet another Chapo point for IITR junta. Known for 
+its dim ambience and excess oil in anything with gravy, RP is one of those places where you go 
+when you are large in number. The place hardly looks like a palace, but it surely costs like one. 
+The food is good, but the bill burns a hole in most pockets.  
 
-The world of IITR is governed by the laws of a) physics and b) relative grading.
-Relative grading is perhaps one of the most intriguing things on this planet. As the name suggests, it means that your result is judged on the basis of your performance relative to the class. There is a specific mathematical formula (involving standard deviation, mean and other scarier terms) which is used to calculate your grade in the course. This grade later translates into your grade point average of all the courses you have taken in a semester.
+###Olive
+It is an ideal place for potential love birds. You can eat here without the fear of finding your 
+single friends around, partly because they are single and partly because it’s so damn expensive. 
+But if you’re someone who doesn’t care much about materialistic things like money, Olive is 
+where you can gorge on some good quality paneer, chicken and pasta around Roorkee.
 
-###GPA
+###CCD
+Another potential snuggling spot. A longish walk from the campus, CCD is the go to place when 
+you have had too many dates at Olive or when you have loads of money to burn. Although 
+whatever Nescafe may say, a lot does not happen over coffee.
 
-GPA or Grade Point Average is a rating that is used to judge your academic performance. You are given a grade in each course after completion. You multiply the grades’ values with the corresponding courses’ credit and add all of them up. Now you divide it by the sum of credits, and you get your grade point average.
+###Pizza Hut
+It was only last year that Pizza Hut realized the growing stature of Roorkee and decided that 
+they could no longer ignore it the way McDonalds does. The result of this epiphany is an 
+occasionally crammed Pizza Hut Delivery outlet located near Olive. Turning Dominos’ pizza joint 
+monopoly into a duopoly, Pizza Hut is another place that makes you grateful for having that 
+worn out IITR Icard which guarantees you magical discounts all around Roorkee.  
 
-If you do it for one semester, then it is called your SGPA or SG.
+_The person hired for writing restaurant reviews was fired at this point, when it was learnt that 
+he was - no disrespect intended - a lowly, lifeless geek. The reviews after this were continued by 
+a stoner follower of Lord Shiva, who like most followers of Lord Shiva, is perennially broke. It 
+isn’t a coincidence that Lord Shiva dressed in animal skin while other Gods had more jewelry on 
+than a Tribhovandas Bhimji Zaveri model. Anyway, these will help you a lot on days when your 
+wallet has more air than a packet of Lays._
 
-If you do it for your entire lifespan in IITR, then it is called your CGPA.
+###Jain Uncle ki dukaan
+For directions ask for Gaylord’s, which incidentally is an ice-cream brand and doesn’t refer to 
+Lord Renly Baratheon. This small shack is barely visible amidst all the smoke of the (unofficially 
+dubbed) Sutta Point. But if you do find it, it is going to help your broke ass a lot in the next 4 
+years. It dishes out hot and edible food starting from Rs. 12 for a dish (with unlimited refills) 
+and Rs. 3 for a roti. This is the place you eat at after you give that hot chick a chapo at Olive.<br />
+_Downside_ - You’ll have rickshaw- wallahs and manual labourers as other patrons. That doesn’t 
+do much for ambience.<br />
+_Upside_ - Jain uncle, being the noble soul that he is, will probably let you eat on credit. This 
+humble writer has had a balance of almost a 1000 bucks at the place, without once hearing a 
+complaint.
 
-Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years. Vital for foreign internships, research prospects and fat paychecks, and almost unnecessary for picking up mates at a bar; the authors of the guide would recommend that you keep an eye on it.
+###Tintin
+Finding Tintin by yourself is a mammoth task, even Christopher Columbus couldn’t find it. 
+Located in an unassuming house in a remote corner of the remote place that Roorkee is, no one 
+even remotely beats Tintin’s mushroom burger. What it lacks in the form of ambience it makes 
+up for with its reasonable prices.  
+  
+###Satkaar Cafe
+This one lies at the end of a long narrow lane in Civil Lines (which will remind you of the 
+Mombasa chase sequence in Inception) which is ingeniously utilised by the Roorkee junta for 
+guess what? Yeah, smoking again. Anyway, this is another low cost option you’ll explore when 
+it’s the end of the month and you’re on your last few rupees. The price range is similar to 
+hostel canteens though the preparation is better. Especially the Alloo Parathas with fresh 
+curd!<br />
+_Downside_ - Getting through the narrow lane. <br />
+_Upside_ - Cheap food.  
 
-###End Sem Exams
+###Sardarji ki dukaan (aka Bus-Tee for reasons unknown)
+The fact that this is the only place open at 3 am in the morning should be enough to make this 
+your favourite place in Roorkee. On top of that, it serves what is probably the best Maggi in 
+Roorkee, complete with butter floating on top.<br />
+_Downside_ - Dragging your stoned self all the way to the bus stand since there are no 
+rickshaws that late at night.<br />
+_Upside_ - Munchies.  
 
-The months of November and April witness the migration of hoards of clueless students from Alpahar and Nesci to the murky corridors of MGCL. Derelict books are dusted off. Gigabytes of study material change hands. Ghissus are stalked for their impeccable notes. This time is characterised by many symptoms, which include sleep deprivation, prolonged pointless hours on facebook, excessive yearning for food (which requires you to leave your table) and an unavoidable thirst for funny youtube videos.
-
-###Branch Changer (BC)
-
-Any resemblance that this acronym bears with that of a rather infamous Hindi swear word is sworn to be nothing more than innocuous coincidence. With stringent branch change regulations sprouting a new roadblock around every corner, it’s quite a challenge to be a BC. A branch change occurs after your first semester, and requires serious dedication to studies and an utter disregard to  Maslow’s theory. It’s tough, highly competitive and insanely unpredictable. However, it has its perks too.
-
-###Special Classification
-Social strata in Planet R can be taxonomically divided into 2 kingdoms - Ghissus and non Ghissus. Further phylla include productive and non-productive ghissus. Non ghissus thrive on top of the social food chain and Ghissus triumph academically. The Ghissus account for 50% of the occupancy of MGCL on normal days. The other 50% is made up of young couples looking for a quiet corner to canoodle.
-
+###Badshaah
+This one is the Mona Lisa of Chicken shacks in Roorkee. No one really loves it but everyone 
+visits it for the historical value. Don’t get us wrong. The chicken there is good but not very 
+different from what you’ll get at Food Point or New Food Point (which your seniors will know 
+as Sizzlers) without having to go into the smelly streets of Old Roorkee.<br />
+_Downside_ - A 100 rupee rickshaw fare.<br />
+_Upside_ - An Afghani Chicken that is so loaded with cream that you’ll smell of it for the next 5 
+days.
