@@ -26,11 +26,16 @@ body{
 
 .ch-grid:after {
 	clear: both;
+	outline: none;
 }
 
 .ch-grid li {
-	width: 280px;
-	height: 280px;
+	width: 300px;
+	height: 300px;
 	display: inline-block;
-	margin: 40px;
+	margin: 70px;
+	outline: none;
+}
+.ch-grid li:after, .ch-grid li:before {
+	outline: none;
 }

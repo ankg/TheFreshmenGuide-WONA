@@ -3,8 +3,9 @@ layout: post
 title:  "Restaurants"
 date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
-excerpt: Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years. 
+excerpt: Perhaps the tea point by the side of the bus stand would be your second best option. The best, of course, would be the guy you think you know who just came back from home with a really heavy backpack. 
 class: ch-img-3
+cover: restaurants_cover.jpg
 --- 	
 --------------------------------
 

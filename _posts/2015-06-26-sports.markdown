@@ -9,7 +9,7 @@ cover: sports_cover.jpg
 ---
 ---------------------------------------------
 
-IITR has incontestably one of the best sports facilities amongst all other IITs as you might have already heard. What you might not have heard is that it also has a highly effective administration that functions to make sure that these facilities are best made use of. It is so because the latter is doubtful.
+IITR has incontestably one of the best sports facilities amongst all other IITs as you might have already heard. What you might not have heard is that it also has a highly effective administration that functions to make sure that these facilities are best made use of. It is so because the latter is _doubtful_.
 
 ###The sorting
 
@@ -27,19 +27,25 @@ __1) Lal Bahadur Shastri Stadium:__ LBS is accredited as our institute’s only 
 
 __2) Olympic size swimming pool:__ In case you don’t know how to swim, you can skip this part. The rest just need to know two things about the pool: It’s big and it’s out of use for the better part of the year _(thanks to the everlasting winter/rainy season in R)_
 
-__3) Football and Hockey fields:__ Two separate fields are dedicated to these two sports. We don’t have much to say about either, as these are not very different from regular fields. But since we need to fill this space with something interesting, here’s a fun fact:  India does not have any national  sport. Hockey being it, is just a widely circulated myth.
+__3) Football and Hockey fields:__ Two separate fields are dedicated to these two sports. We don’t have much to say about either, as these are not very different from regular fields. But since we need to fill this space with something interesting, here’s a fun fact:  [India does not have any national  sport. Hockey being it, is just a widely circulated myth](http://timesofindia.indiatimes.com/sports/hockey/top-stories/Hockey-is-not-our-national-game-Ministry/articleshow/15322482.cms).
 
 __4) Institute Gym:__ The gym is the second most underutilized place in IIT R, right after the Mandi cell (or the Thomso office?). Equipped with the latest body conditioning contraptions, it is open to anyone who is particularly fond of Eminem. Incidentally, the most popular song here is ‘Lose Yourself’. _(We are more of the opinion that Eminem should improve upon his original song and rename it ‘Lose your Flab’)_
 
 The gym is most occupied at the beginning of every fresh semester. Gradually as days pass and motivation levels drop like the charts of a Salman Khan starrer, the people continuing the gym usually end up being one of two kinds: those who form part of the weight-lifting team of IITR or those who wish to make it to the same.
 
-The sports facilities also include courts for
-Basketball
-Lawn Tennis
-Squash
-Badminton
-Volleyball
-Table Tennis
+The sports facilities also include courts for  
+
+* Basketball  
+
+* Lawn Tennis  
+
+* Squash  
+
+* Badminton  
+
+* Volleyball  
+
+* Table Tennis
 
 There is also a boating club somewhere in the woods near the Solani  Aqueduct. It’s something that is unique about IITR but since we are mentioning it in the end, you can assume that its current state is not exactly great.
 

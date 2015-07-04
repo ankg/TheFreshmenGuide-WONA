@@ -3,28 +3,41 @@
 	max-width: 70%; 
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 18px;
+	font-size: 17px;
 	background: white;
 	padding: 1%;
-	padding-left: 2%;
-	padding-right: 2%;
+	padding-left: 2% ;
+	padding-right: 2% ;
 	margin-bottom: 2%;
 	margin-top: 2%;
+	line-height: 140%;
 }
 .post .post-header{
 	
 }
 .post .post-header .post-title{
-	margin-top: 20px;
+	margin-top: 40px;
 	color: #316882;
+	text-transform: uppercase;
+	font-size: 26px;
+	letter-spacing: 1px;
 }
-.post h1, .post p{
+.post .post-content h1{
 	display: block !important;
 	margin: 4% !important;
 }
-
-.post li{
-	list-style: decimal !important;
+.post .post-content h3, .post .post-content h2{
+	color: #316882;
+}
+.post .post-content p{
+	display: block !important;
+	margin: 4% !important;
+}
+.post ol li{
+	list-style-type: decimal;
+}
+.post ul li{
+	list-style-type: circle;
 }
 
 .post ol, .post ul{

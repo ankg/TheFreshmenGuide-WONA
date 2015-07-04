@@ -9,8 +9,6 @@ cover: dictionary_cover.jpg
 ---
 ---------------------------------------------
 
-Campus Dictionary
-
 1. Chapo:
 
 (n.)Traditionally meaning chai-pakoda, this term has been now reduced to mean party or treat, or in the worst case, as a euphemism for ‘I like you, but I don’t really have any topic to talk with you. Can we meet?’

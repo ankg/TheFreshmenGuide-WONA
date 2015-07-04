@@ -5,6 +5,7 @@ date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
 excerpt: The most path breaking research of course happens in the Civil department.
 class: ch-img-7
+cover: research_cover.jpg
 ---
 -------------------------------------------------  
 
@@ -12,11 +13,11 @@ Knowing where one’s <s>towel</s> lab is
 
 \#Research
 
-There is a theory which states that human beings have managed to exist on this planet for so long because of their infallible inquisition and ability to systematically investigate, study and reach at explicable conclusions, henceforth referred to as research. There is another theory which states that since we are all ultimately going to die and spend the rest of our time in the universe as tiny carbon particles moving around in the limitless abyss of space, there isn't much point in existing at all.
+_There is a theory which states that human beings have managed to exist on this planet for so long because of their infallible inquisition and ability to systematically investigate, study and reach at explicable conclusions, henceforth referred to as research. There is another theory which states that since we are all ultimately going to die and spend the rest of our time in the universe as tiny carbon particles moving around in the limitless abyss of space, there isn't much point in existing at all._
 
-In R, research is given foremost importance. Unlike our sister IITs we do not believe  in burning down laboratories on the prospect of doing an  experiment; we here trust in our labs to getting burned down themselves. Every once in a while, one hears reports of some guy in the CS department coming up with a conclusive proof that P does indeed equal NP. But there isn't much follow up to that and people invariably assume that the thermostat in the department might have again stopped working.
+In R, research is given foremost importance. Unlike our sister IITs we do not believe  [in burning down laboratories on the prospect of doing an  experiment](http://www.hindustantimes.com/newdelhi/fire-in-iit-delhi-campus-building-no-injuries/article1-1187543.aspx); we here trust in our labs to getting burned down themselves. Every once in a while, one hears reports of some guy in the CS department coming up with a conclusive proof that P does indeed equal NP. But there isn't much follow up to that and people invariably assume that the thermostat in the department might have again stopped working.
 
-The most path breaking research of course happens in the Civil department. This is because most of their research tends to involve breaking down existing roads and laying them again, in the hope of finding that elusive X to Y ratio, where X and Y are two materials no one else in the institute has any idea about.
+_The most path breaking research of course happens in the Civil department. This is because most of their research tends to involve breaking down existing roads and laying them again, in the hope of finding that elusive X to Y ratio, where X and Y are two materials no one else in the institute has any idea about._
 
 Regardless, students of this department can be frequently spotted in the campus carrying yellow tripod stands mounted on which is a camera, or as they prefer to call it, ultra high resolution wide field long range camera with night vision and a measuring tape. They probably use these to measure something, though no one has ever bothered to stop and ask them what they’re doing.
 
@@ -24,5 +25,6 @@ Regardless, we continue having tie-ups with leading corporate firms like IBM, Ad
 
 __SURA:__ Student Undergraduate Research Award. Financial support to students with outstanding work on research projects.
 
-__iNSPIRE:__ Scholarship awarded to the applied sciences students over the duration of their stay in IITR.
+__iNSPIRE:__ Scholarship awarded to the applied sciences students over the duration of their stay in IITR.  
+
 Although more will be revealed along your course of stay at IITR, you can always refer here for department specific information.

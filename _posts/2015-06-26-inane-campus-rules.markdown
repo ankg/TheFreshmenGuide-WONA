@@ -5,7 +5,7 @@ date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
 excerpt: So you think only the highly intellectual can be eccentric? Check out the weird rules the administration has put up at IIT R.
 class: ch-img-5
-cover: rules_cover.jpg
+cover: rules_cover_2.jpg
 ---
 --------------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ So you think only the highly intellectual can be eccentric? Check out the weird 
 
 2. Conversing/Looking at/Walking with the females in front of KB or SB is banned.  
 
-3. For some weird reason, attendance at NSO is taken more seriously than at the lectures. No wonder students running for their NSO practice initially are in the later part the year found running from practice.
+3. For some weird reason, attendance at NSO is taken more seriously than at the lectures. No wonder students running for their NSO practice initially are in the later part the year found running _from_ practice.
 
 4. But the attendances in lectures are important too. You can see the administration putting out short attendances notices, sometimes after the exam has been conducted.
 
@@ -25,7 +25,7 @@ So you think only the highly intellectual can be eccentric? Check out the weird 
 
 7. Sleeping in the library is prohibited. You’d think it is obvious, but wait till you open textbooks in the library. The induced sleep can knock you out in seconds. On the other hand, watching TV Shows with your paramour and PDA in the journal section is not.
 
-8. The girls are locked in their Bhawans after 11pm. Yes, locked in! And all notices referring to them as ‘inmates’ don't help much either.
+8. The girls are locked in their Bhawans after 11pm. Yes, locked in! And all notices referring to them as _‘inmates’_ don't help much either.
 
 9. Under no circumstances should you send cheeky messages or poke the better looking females of the institute on online social media without knowing them personally. It might result in you getting blocked, reported, or both.
 

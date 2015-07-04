@@ -5,19 +5,20 @@ date:   2015-06-26 12:28:01
 categories: [jekyll, update, section]
 excerpt: The ultimate doctrine (which is something as imaginary as this guide) declares IIT-R to be a democratic institute. 
 class: ch-img-6
+cover: politics_cover.jpg
 --- 	
 --------------------------------
 
 For thousands of years, the warlords of the galaxies lights years away have fought innumerable ruthless battles. Flaks have flown and natives have perished in the dark space. All of this for the Iron Throne of the Students Affairs Council (SAC) of the IITR cosmic space. It is said that the Iron 
 Throne was studded with a thousand light sabers before being reluctantly replaced by a revolving chair due to multiple posterior problems reported by the delegated involved.   
 
-The ultimate doctrine (which is something as imaginary as this guide) declares IIT-R to be a democratic institute. Here students have as much say as the administration when it comes to campus affairs. Which of course translates to very little. While discussions and debates pertaining to what to do with the freshly allocated funds (hint: relay existing roads) and to whom should we let out the space in front of the students’ club (hint: switch between two very similar retail brands) happen weekly; everyone knows that the final decision is taken by a green little infant enjoying this reality show from somewhere in the universe.
+The ultimate doctrine (which is something as imaginary as this guide) declares IIT-R to be a democratic institute. Here students have as much say as the administration when it comes to campus affairs. Which of course translates to very little. While discussions and debates pertaining to what to do with the freshly allocated funds _(hint: relay existing roads)_ and to whom should we let out the space in front of the students’ club _(hint: switch between two very similar retail brands)_ happen weekly; everyone knows that the final decision is taken by a green little infant enjoying this reality show from somewhere in the universe.
 
 The Student Affairs Council is the body that represents student community in the IITR senate. If 
 you have been a little late in reading this guide (and it’s been a few weeks already since you’ve 
 been confined to Rajendra Bhawan premises), chances are you probably know how things work 
 here. Student elections are the first major activity that the freshers are exposed to- just after 
-their ragging intro-chapo. As the atmosphere starts getting politically charged, introductions 
+their <s>ragging</s> intro-chapo. As the atmosphere starts getting politically charged, introductions 
 are made, affiliations are expressed, ‘pacts’ are signed and  chapos are given. R is perhaps 
 unique in this respect among all its sister IITs. While many of them have student 
 representatives in their senate; very few have participation and enthusiasm on this grand a 
@@ -27,15 +28,15 @@ Like it or hate it; it’s almost impossible to be indifferent towards the poly 
 perfect strangers start moving from door to door, reading out their manifestos from shabbily 
 scripted plastic cards; we won’t blame you if you are reminded of a Shyam Benegal political 
 thriller. Their promises range from slightly laughable to excessively outrageous and usually tend 
-to involve the terms washing machine, geysers, gym and chapo.
+to involve the terms _washing machine, geysers, gym and chapo._
 
 Seniors try their best to act godfathers to their corresponding juniors.
 
 Until this year, the SAC formation was a two stage process. The hostels were divided into 
 constituencies and first team of representatives were elected by the students. These students 
 then competed and voted amongst themselves for the executive spots such as the President 
-and the Tresurer. But this year will see a massive shift from this federal system to the 
-presidential system of elections.
+and the Tresurer. But this year will see a massive shift from this _federal_ system to the 
+_presidential_ system of elections.
 
 The general assembly will now consist of seven task-specific posts which are elected by entire 
 student body. Any student can contest the election for the institute level posts of General 
@@ -44,7 +45,7 @@ a similar fashion, the posts on the bhawan levels have been revamped to address 
 such as food, sports, maintenance, provisions and further more, technical, literary and alumni 
 affairs. 
 
-This step is could as well prove to be as effective as Bin Tuglaq’s capital city shift. What comes 
+This step is could as well prove to be as effective as _Bin Tuglaq’s_ capital city shift. What comes 
 out of it is a matter of speculation even to the compilers of this guide. To know more, keep your 
 eyes fixed on the upcoming WONA blog series, where we analyse this change in much greater 
 detail.

@@ -45,12 +45,12 @@ Whatever your immediate seniors may claim, your CG is one of the things that sti
 
 ###End Sem Exams
 
-The months of November and April witness the migration of hoards of clueless students from Alpahar and Nesci to the murky corridors of MGCL. Derelict books are dusted off. Gigabytes of study material change hands. Ghissus are stalked for their impeccable notes. This time is characterised by many symptoms, which include sleep deprivation, prolonged pointless hours on facebook, excessive yearning for food (which requires you to leave your table) and an unavoidable thirst for funny youtube videos.
+The months of November and April witness the migration of hoards of clueless students from Alpahar and Nesci to the murky corridors of MGCL. Derelict books are dusted off. Gigabytes of study material change hands. _Ghissus_ are stalked for their impeccable notes. This time is characterised by many symptoms, which include sleep deprivation, prolonged pointless hours on facebook, excessive yearning for food (which requires you to leave your table) and an unavoidable thirst for funny youtube videos.
 
 ###Branch Changer (BC)
 
 Any resemblance that this acronym bears with that of a rather infamous Hindi swear word is sworn to be nothing more than innocuous coincidence. With stringent branch change regulations sprouting a new roadblock around every corner, it’s quite a challenge to be a BC. A branch change occurs after your first semester, and requires serious dedication to studies and an utter disregard to  Maslow’s theory. It’s tough, highly competitive and insanely unpredictable. However, it has its perks too.
 
 ###Special Classification
-Social strata in Planet R can be taxonomically divided into 2 kingdoms - Ghissus and non Ghissus. Further phylla include productive and non-productive ghissus. Non ghissus thrive on top of the social food chain and Ghissus triumph academically. The Ghissus account for 50% of the occupancy of MGCL on normal days. The other 50% is made up of young couples looking for a quiet corner to canoodle.
+Social strata in Planet R can be taxonomically divided into 2 kingdoms - _Ghissus_ and _non Ghissus_. Further phylla include _productive_ and _non-productive_ ghissus. _Non ghissus_ thrive on top of the social food chain and _Ghissus_ triumph academically. The _Ghissus_	 account for 50% of the occupancy of MGCL on normal days. The other 50% is made up of young couples looking for a quiet corner to canoodle.
 
