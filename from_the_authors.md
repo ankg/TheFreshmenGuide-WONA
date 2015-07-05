@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Author's Note
+title: From The Authors
 ---

@@ -18,7 +18,7 @@
 	padding-right: 2%;		
 }
 .site-nav .page-link{
-	margin-left: 10px;
 	color: #316882 !important;
-	font-weight:600;
+	font-weight:500;
+	font-size: 15px;
 }

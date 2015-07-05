@@ -48,7 +48,8 @@ dog discovered their recipe by accident. A few eyebrows were raised when soon af
 were included in their menu.  
 
 ###Sagar
-When people can’t get into Prakash, they go to Sagar. Period.
+When people can’t get into Prakash, they go to Sagar. Period.  
+
 (PS: Sagar does serve a really good Club Sandwich, which tastes even better after its 
 depressingly slow service.).  
 
@@ -78,7 +79,7 @@ worn out IITR Icard which guarantees you magical discounts all around Roorkee.
 
 _The person hired for writing restaurant reviews was fired at this point, when it was learnt that 
 he was - no disrespect intended - a lowly, lifeless geek. The reviews after this were continued by 
-a stoner follower of Lord Shiva, who like most followers of Lord Shiva, is perennially broke. It 
+a <s>stoner</s> follower of Lord Shiva, who like most followers of Lord Shiva, is perennially broke. It 
 isn’t a coincidence that Lord Shiva dressed in animal skin while other Gods had more jewelry on 
 than a Tribhovandas Bhimji Zaveri model. Anyway, these will help you a lot on days when your 
 wallet has more air than a packet of Lays._

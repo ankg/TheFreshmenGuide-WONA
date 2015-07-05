@@ -13,64 +13,64 @@ cover: dictionary_cover.jpg
 
 	(n.)Traditionally meaning chai-pakoda, this term has been now reduced to mean party or treat, or in the worst case, as a euphemism for ‘I like you, but I don’t really have any topic to talk with you. Can we meet?’
 
-	“Hey Meenakshi! What about your birthday chapo?” “My birthday was last month. Jerk.”
+	_“Hey Meenakshi! What about your birthday __chapo__?” “My birthday was last month. Jerk.”_
 
 2. <u>__Machau / Macha diya:__</u>
 
 	(v.)The term people use when somebody opens a tightly closed bottle in IIT-R, or does anything of equal value.<br />
 	
-	“Hey, you finally downloaded new  bhajans from  DC++. Macha diya!”
+	_“Hey, you finally downloaded new  bhajans from  DC++. __Macha diya__!”_
 
 3. <u>__Ghissu:__</u>
 
 	(n.)The kind of person everyone wants to become, but can’t; and therefore subjects those who can to social ridicule. Characterised by high GPA and (generally) absent social life.  Read more.<br />
 	
-	“What! Abhijeet got a grace mark from sir because of his regularity and attention in class and managed to clear his backlog? That ghissu! “
+	_“What! Abhijeet got a grace mark from sir because of his regularity and attention in class and managed to clear his backlog? That __ghissu__! “_
 
 4. <u>__Maal__</u>
 
 	(n.)Fresh plant leaves with medicinal value.<br />
 	
-	“Bahaut tension ho rahi hai bhai. Thoda maal milega?”
+	_“Bahaut tension ho rahi hai bhai. Thoda __maal__ milega?”_
 
 5. <u>__P (said:Sac-Pee)__</u>
 
 	(n.)The president of SAC.<br />
 	
-	“Hey Rahul. Quick question - which letter comes after ‘O’?” “I don’t know man. I don’t think we are allowed to take His name for no reason”
+	_“Hey Rahul. Quick question - which letter comes after ‘O’?” “I don’t know man. I don’t think we are allowed to take His name for no reason”_
 
 6. <u>__Bhabhiji__</u>
 
 	(n.)The girl your wingmate talked to/looked at.<br />
 	
-	“Arre, what are your views on Priya? She texted me if I knew whether tomorrow is a holiday or not.”
-	“Bhabhiji is totally asking for it man.”
+	_“Arre, what are your views on Priya? She texted me if I knew whether tomorrow is a holiday or not.”
+	“__Bhabhiji__ is totally asking for it man.”_
 
 7. <u>__Baba__</u>
 
 	(n.)That guy in every hostel wing who looks like he’ll die from a heart attack any day now. Generally recognised by a receding hairline or a father like attitude towards the other wingmates.<br />
 	
-	“Bhai. Jaldi chal. Side waale wing ke baba ka birthday hai!” “Ab kaunse waala?”
+	_“Bhai. Jaldi chal. Side waale wing ke _baba_ ka birthday hai!” “Ab kaunse waala?”_
 
 8. <u>__Chep__</u>
 
 	(n.)(chep-ness,adj.)Person(generally male) characterised by ludicrous and cheap means to woo/impress/stalk another person(generally female).<br />
 	
-	Laughing, “That guy is so after me. He first sent me a friend request and then when I left my notebook in class the other day, picked it up and handed it to me”
-	“Hehe. Looks like another chep”
-	“Ikr! What is wrong with these IIT guys?!”
+	_Laughing, “That guy is so after me. He first sent me a friend request and then when I left my notebook in class the other day, picked it up and handed it to me”
+	“Hehe. Looks like another __chep__”
+	“Ikr! What is wrong with these IIT guys?!”_
 
 9. <u>__Dulla__</u>
 
 	(n.)Person enrolled in a Dual Degree course.<br />
 	
-	“Wo Dulla hai yaar. We can’t trust him.”
+	_“Wo __Dulla__ hai yaar. We can’t trust him.”_
 
 10. <u>__Bakchodi__</u>
 
 	(v.) Gossips which lead to no logical conclusion. Or in general, gossips which have no logic whatsoever.<br />
 	
-	“Bhai kya bakchodi pel raha hai?”
+	_“Bhai kya __bakchodi__ pel raha hai?”_
 
 11. <u>__Bakchod__</u>
 
@@ -78,13 +78,13 @@ cover: dictionary_cover.jpg
 	A worthless person or thing. or<br />
 	Any course offered by the Humanities department.<br />
 	
-	“Rajeev bakchod banda hai yaar. He still believes RG should’ve been the PM of this country.”
+	_“Rajeev __bakchod__ banda hai yaar. He still believes RG should’ve been the PM of this country.”_
 
 12. <u>__Bakar__</u>
 
 	(n.) Gossips in general. Accounts for 80% of all activity inside hostels.<br />
 	
-	“Kuch productive karte hai yaar. Kabse bakar kaat rahe hai.”
+	_“Kuch productive karte hai yaar. Kabse __bakar__ kaat rahe hai.”_
 
 13. <u>__Bandi__</u>
 
@@ -92,61 +92,60 @@ cover: dictionary_cover.jpg
 	A D.U. guy talking with someone from the Mechanical Deptt. of any
 	IIT.
 
-	“Want to hear a joke?” “Yeah!”
-	“Bandi”
-	“I don’t get it” “Exactly.”
+	_“Want to hear a joke?” “Yeah!”
+	“__Bandi__”
+	“I don’t get it” “Exactly.”_
 
 14. <u>__Bond__</u>
 
 	(n./adj.) A person known by his command over a particular field. or
 	The most common username in Counter Strike.
 
-	“Ankur bond hai yaar. Wo manage kar lega. We should start the project.”
+	_“Ankur __bond__ hai yaar. Wo manage kar lega. We should start the project.”_
 
 15. <u>__Chapai / Chapna__</u>
 
 	(v.) Copying (specially assignments). A term heavily used the night before submissions of any kind.
 
-	“ Tut de be, chapna hai”
+	_“ Tut de be, __chapna__ hai”_
 
 16. <u>__Chaggi__</u>
 
 	(n.) A person whose CG is 6.something. He/She can be characterised by a light-minded approach towards life and (thereafter) tensed expressions during placements. Similarly we have satti, atthi, nehli and dassi.
 
-	“Bhai tera paper hi toh chepa tha. Teri atthi lagi aur meri chaggi?”
+	_“Bhai tera paper hi toh chepa tha. Teri atthi lagi aur meri __chaggi__?”_
 
 17. <u>__Cogni__</u>
 
 	(n.) Short for  Cognizance.
 
-	“Mere paas bangla hai, gadi hai, paisa hai.......
+	_“Mere paas bangla hai, gadi hai, paisa hai.......
 	tumhare paas kya hai?”
-	“Cogni ka certi., bitch.”
+	_“__Cogni__ ka certi., bitch.”_
 
 18. <u>__Despo__</u>
 
 	(adj.) Short for desperate. An innocuous substitute for chep. A person can be desperate for food, money or  bandi .
 
-	“30 messages in 3 days? Bada despo banda hai yaar.”
+	_“30 messages in 3 days? Bada __despo__ banda hai yaar.”_
 
 19. <u>__Enthu__</u>
 
 	(n.) Short for enthusiasm. Seen in every person (generally fresher) recognised by his undying devotion to Cogni or Thomso activities (mostly involving setting up chairs or receiving guests at the station or sticking up posters in bhawan walls)
 
-	“Civil waale  facche ko de de be ye kaam. Bada enthu hai usmei”
+	_“Civil waale  facche ko de de be ye kaam. Bada __enthu__ hai usmei”_
 
 20. <u>__Faadu__</u>
 
 	(adj,) A proud and big achievement. A (rarely used) substitute for  Machau.
 
-	“Bada faadu kaam kiya hai yaar”
+	_“Bada __faadu__ kaam kiya hai yaar”_
 
 21. <u>__Gaaon__</u>
 
-
 	(n.)Area where Rajendra, Cautley and Ganga bhawans are located. This area is far from main campus area and is generally recognised by a simple lifestyle and zero interference with major campus affairs.
 
-	“Yeh gaaon mera hai aur main is gaaon kaa Bajirao Singham.”
+	_“Yeh __gaaon__ mera hai aur main is __gaaon__ kaa Bajirao Singham.”_
 
 22. <u>__Lassu__</u>
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Departments"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: Whatever your immediate seniors may claim, your CG is one of the things that sticks onto your resume for the initial years. 
 class: ch-img-4
 cover: departments_cover.jpg

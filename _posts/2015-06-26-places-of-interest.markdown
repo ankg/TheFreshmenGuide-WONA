@@ -18,9 +18,8 @@ majority of students during the daytime. With the smell of hot simmering _doodh-
 tea with extra milk worth Rs.2), the _aloo pakoras_ and samosas in the morning, Alpahar turns 
 out to be a brilliant place for morning breakfast and ensuing _bakar_ sessions of afternoon.  
 
-###Nesci: 
+###Nesci: (previously known as Bru(previously known as Nesci(previously known as….)))  
 
-(previously known as Bru(previously known as Nesci(previously known as….)))
 This open space next to Student’s Club and PNB is the official hangout place for R junta, which 
 does not know what to do with the cursed one hour breaks between classes. With a rather 
 uncomfortable seating arrangement allowing no privacy for the couples, Nesci is perfect for 
@@ -34,7 +33,7 @@ the best hangout place in IITR campus. With sofas and separate rooms to accommod
 activities of the literary section, this place houses table tennis, foosball, carrom and chess tables 
 for the R junta. The open space in front of the club serves as the most happening place during 
 the time of Cognizance or Thomso. Events of Lohri celebration, flash-mobs and street plays take 
-place here  
+place here.  
 
 ###MAC (Multi Activity Center):  
 
@@ -45,7 +44,7 @@ took to build as well as debates over its not so central location. Nevertheless,
 ostentatious auditorium, rooms for indoor games, eateries, dedicated rooms for sections of the 
 cultural council and a clumsily built open air theatre. MAC is the reason behind growing 
 property prices in the gaon, although it is rumored to be jinxed by thousands of pass outs who 
-hoped it would be complete before they graduate.
+hoped it would be complete before they graduated.
 
 ###Hobbies club: 
 

@@ -29,6 +29,6 @@ The nature of companies who come to IITR for placements is quite diverse. We get
 
 This is probably one of the most mysterious places of IITR where unsuspecting students find themselves at the end of their stay, dressed in, as already mentioned, borrowed suits. This place is so complex, that even its name says so. On the outset, it looks like a usual building: with walls, windows and doors. However horror awaits the seniors inside as they are grilled on questions about science, technology and business, and _then offered two biros: a red one and a blue one_ . Regardless of which one they pick, they’re ultimately rejected on grounds of having a below par GPA.
 
-The building also houses the placement cell and offices for TIEDA and  EDC.
+The building also houses the placement cell and offices for TIEDA and  [EDC]().
 
 

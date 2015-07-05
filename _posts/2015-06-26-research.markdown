@@ -9,7 +9,7 @@ cover: research_cover.jpg
 ---
 -------------------------------------------------  
 
-Knowing where one’s <s>towel</s> lab is
+###Knowing where one’s <s>towel</s> lab is
 
 \#Research
 
@@ -27,4 +27,4 @@ __SURA:__ Student Undergraduate Research Award. Financial support to students wi
 
 __iNSPIRE:__ Scholarship awarded to the applied sciences students over the duration of their stay in IITR.  
 
-Although more will be revealed along your course of stay at IITR, you can always refer here for department specific information.
+Although more will be revealed along your course of stay at IITR, you can always refer [here](../departments) for department specific information.
