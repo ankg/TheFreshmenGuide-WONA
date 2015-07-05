@@ -20,20 +20,28 @@
 	background-image: url(../images/academics.jpg);
 	background-position: -200px	0%;
 }
+.ch-img-4{ 
+	background-image: url(../images/departments.jpg);
+	background-position: 0px 0%;
+}
 
 .ch-img-5 { 
-	background-image: url(../images/rules.jpg);
-	background-position: 20% 30%;
+	background-image: url(../images/rsz_rules.jpg);
+	background-position: 40% 0%;
 }
 
 .ch-img-6 { 
-	background-image: url(../images/rules.jpg);
+	background-image: url(../images/rsz_politics.jpg);
 	background-position: 0%	0%;
 }
 
 .ch-img-7 { 
 	background-image: url(../images/research.jpg);
 	background-position: 30% 30%;
+}
+.ch-img-8 { 
+	background-image: url(../images/hometel.jpg);
+	background-position: 90% 40%;
 }
 
 .ch-img-9 { 
@@ -44,9 +52,17 @@
 	background-image: url(../images/placements.jpg);
 	background-position: 0% -100px;
 }
+.ch-img-11 { 
+	background-image: url(../images/rsz_cogni.jpg);
+	background-position: -100px 0px;
+}
 .ch-img-12 { 
-	background-image: url(../images/places.jpg);
-	background-position: 10% 0px;
+	background-image: url(../images/rsz_1rsz_1places.jpg);
+	background-position: 0% 0px;
+}
+.ch-img-13 { 
+	background-image: url(../images/rsz_groups.jpg);
+	background-position: 10% -60px;
 }
 .ch-img-14 { 
 	background-image: url(../images/dictionary.jpg);
