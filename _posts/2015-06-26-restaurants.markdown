@@ -2,7 +2,7 @@
 layout: post
 title:  "Restaurants"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: Perhaps the tea point by the side of the bus stand would be your second best option. The best, of course, would be the guy you think you know who just came back from home with a really heavy backpack. 
 class: ch-img-8
 cover: restaurants_cover.jpg

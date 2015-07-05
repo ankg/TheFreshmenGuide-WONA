@@ -2,7 +2,7 @@
 layout: post
 title:  "CAMPUS RULES"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: So you think only the highly intellectual can be eccentric? Check out the weird rules the administration has put up at IIT R.
 class: ch-img-5
 cover: rules_cover_2.jpg

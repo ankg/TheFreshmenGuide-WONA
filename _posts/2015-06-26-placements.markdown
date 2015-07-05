@@ -2,7 +2,7 @@
 layout: post
 title:  "Placements"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: The nature of companies who come to IITR for placements is quite diverse.
 class: ch-img-10
 cover: placement_cover.jpg

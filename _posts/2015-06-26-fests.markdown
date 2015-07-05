@@ -2,7 +2,7 @@
 layout: post
 title:  "Fests"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: Surprise struck to the junta in the autumn of 2013 when Thomso’13 unexpectedly kicked-ass in each and every goddamn domain. Undoubtedly, the days of Thomso are probably the best time at the campus of IIT-R. 
 class: ch-img-11
 cover: fests_cover.jpg

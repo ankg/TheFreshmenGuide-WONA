@@ -2,7 +2,7 @@
 layout: post
 title:  "Places of Interest"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: With a rather uncomfortable seating arrangement allowing no privacy for the couples, Nesci is perfect for passing time sipping coffee or iced tea with friends.
 class: ch-img-12
 cover: places_cover.jpg

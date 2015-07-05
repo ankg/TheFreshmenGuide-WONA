@@ -2,10 +2,11 @@
 layout: post
 title:  "Sports"
 date:   2015-06-26 12:28:01
-categories: [jekyll, update, section]
+categories: [section]
 excerpt: IITR has incontestably one of the best sports facilities amongst all other IITs as you might have already heard.
 class: ch-img-9
 cover: sports_cover.jpg
+url: sports
 ---
 ---------------------------------------------
 
