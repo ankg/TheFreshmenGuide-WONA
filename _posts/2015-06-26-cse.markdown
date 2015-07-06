@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Computer Science And Engineering"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+The main purpose of the existence of this department is to belittle its adjoining 
+department by offering common courses to the EC and CS students which then the CS 
+students end up nailing. Apart from this it offers a couple of programming courses, 
+air-conditioned labs to play minesweeper and a sprawling cycle stand that takes pride 
+in its ancient history. Every once in a while a couple of CS grads get crore plus offers 
+and the news does the rounds in the dailies. Apart from that, there isn't much that 
+goes on round the year.  
+
+Computer Science, compared to the other branches of engineering, is a relatively newer field 
+of study. The exponential burst came with the advent of corporate giants like Apple and 
+Microsoft. Contrary to popular belief, its relevance increases day by day.  
+
+The branch comprises of two main components - Computer Science and Computer Engineering. 
+Computer science deals with the theoretical foundations of information and computation, 
+along with practical techniques for the implementation and application of these foundations. In 
+other words, it is the systematic study of algorithmic methods for representing and 
+transforming information, including their theory, design, implementation, application, and 
+efficiency. The roots of computer science extend deeply into mathematics.
+Computer Engineering on the other hand, typically focuses on computer hardware and 
+software. It is, in a nutshell, an integration of computer science and electrical engineering. The 
+curriculum covers both aspects.  
+
+Subjects like Data Structures and Algorithms, Discrete Structures, Computer Architecture, Operating 
+Systems and Networking etc are vital for a complete understanding of the branch. But the writers of the 
+guide would advice the freshmen to master the courses on Programming, since almost the entire CSE 
+curriculum depends on it.  
+
+There are wide areas of research that are open for any person who studies CS: Machine Learning 
+(including Sub-domains of AI, Robotics, Natural Language Processing), Network Security, Compilers, 
+Cryptography, Mobile Operating Systems, Real-time OSes, Cloud and Distributed Computing, Discrete 
+Mathematics, Programming Languages, Data Mining, Database Management Systems, to name a few. 
+Apart from that, there's the field of Data Analytics, incorporating concepts of DBMS and Statistics, 
+famously known as Big Data.  
+
+CS grads who know their basics are high in demand. But, the catch here is precision. You cannot fool or 
+wriggle your way out of any situation. As an engineer you need to understand and deal with the realities 
+of the problem and find out a viable solution. That takes a lot of study and practice. A job in CSE is only 
+AND ONLY dependent upon your ability to find solve problems.  
+
+In the industry, the job descriptions include Software Engineers, Data Analysts, System Programmers, 
+Software Program Manager and Software Architect. Additionally, if you pursue higher studies (M.S. or 
+PhD), you are also entitled to jobs in Universities and Research Teams in different Companies and 
+organisations .  
+
+Students apply for internships in both industry and academia. During interviews, companies mainly test 
+your ability to code under dire circumstances and your command over basic Algorithms and Data 
+Structures.  
+
+The mean salary in India for a CS undergrad is easily between 10-18 lakhs. The average package is 
+however, an unhelpful quantity, owing to the huge window in the pay package.  
+
+Algorithmic Coding is the most celebrated sport in the CS community. Not to forget the Cyber Security 
+or Capture the Flag (CTF) contests, and the Data Science challenges which have been gaining popularity 
+of late.
+

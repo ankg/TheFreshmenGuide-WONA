@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Production And Industrial Engineering"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+_Production and Industrial Engineering is a sister branch of Mechanical Engineering. The
+undergrads are basically Mechanical Engineers in making, only with an easier lifestyle and a 
+larger number of female students in their batch._
+
+An industrial engineer has wide knowledge of engineering practices and is aware of 
+management challenges related to production. Most manufacturing houses look out for 
+engineers who specialize in this field so as to reduce cost, increase efficiency and make their 
+products marketable in this competitive era. P&I, as a branch, is offered only in IIT-D and IIT-R, 
+along with a similar branch in IIT-KGP, making it all the more unique.
+
+Production and Industrial engineering, as the name suggests, comprises of two different 
+specializations. Production Engineering involves study and application of various manufacturing 
+processes. There are practical and theoretical courses on Manufacturing Techniques namely 
+Forming, Material Removal and Finishing processes and Tool Engineering. The course content is 
+more theoretical rather than mathematical.
+
+Industrial Engineering covers a very wide variety of subjects. It revolves around optimizing the 
+time and resources available for a firm and running their operations. The subjects pertaining to 
+the same are more mathematically intense than Production. Some courses in the curriculum 
+are borrowed from Mechanical - Machine Drawing, Thermodynamics, Fluid Dynamics and 
+Theory of Machines, to name a few.
+
+On an average the workload is 20 hours per week, which gives a lot of time to the students to 
+engage in extracurricular activities in the institute and carry out any research related activities 
+in his/her area of interest.
+
+Students can opt for MBA in Operations (or in general) or pursue MS in any field of Industrial 
+Engineering (Analytics, Optimization, Facilities Systems and Network Planning, Stochastic 
+Modelling and Simulation, Health Systems, Manufacturing, SCM, Operations Research).
+For those interested in Production, the fields of research include Advanced machining, 
+UltraSonic machining, Electro Discharge Machining, Submerged Arc Welding, Computer 
+Numerically Controlled machining are the fields for research.
+
+Not more than 10 on-campus offers for internships are offered. A lucky few get to do a fully 
+funded research internship in Germany via DAAD, in Canada via MITAX, and in Japan via 
+HondaYES+.
+
+As far as campus recruitments are concerned, PI students are eligible for almost all data 
+analytic and consultancy firms that visit the campus. Jobs opportunities are not scarce, but 
+again, there is no free lunch. Roughly, the average pay scale is 6-7 lakhs.  
+
+Students get placed in companies across various sectors: Oil and Gas (Shell, Schlumberger), 
+FMCG(ITC), Automotive (TATA Motors, Hero MotoCorp, Anand Automotive, VE Commercials, 
+Mahindra & Mahindra), E-Commerce(Flipkart, Snapdeal), IT(Oracle, Wipro) and other 
+companies visiting the campus offering analytics role in various domains.
+

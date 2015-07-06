@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Applied Mathematics"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+_In 2007, when the administration saw a drop in the number of postgraduate Maths students, the Society 
+of Highly Intellectual and Trained Scientists of IITR was formed. The eminent members of the society 
+decided to introduce the same course with a different name. (Apparently, this was the same committee 
+that was responsible for changing the name of the white Main Building to James Thomason Building). 
+The exact nature of the subjects of this branch is mentioned in the 2nd amendment of article 177A of the 
+constitution of  IITR, which states: “It’s got something to do with maths.”_
+
+This course aims at providing its students an in-depth understanding of the applications of 
+mathematics in various fields like economics, business, and computer science. From the first 
+year itself, the course has a bunch of subjects from applied, as well as pure mathematics. With 
+courses like Numerical methods, Linear algebra, Discrete Mathematics and Introduction to 
+Computer Programming, the course equips the students to start studying and appreciating the 
+applications of mathematics in various fields.
+
+In the subsequent years, advanced subjects such as Abstract Algebra, Fluid Dynamics, Design 
+and Analysis of Algorithms are introduced.  The topics covered focus on training you to be 
+capable enough to implement your knowledge meticulously. As is mandatory for any Masters 
+degree, the last semester is devoted to the thesis.
+
+One of the main features of this course is the number of contact hours it entails. With very few 
+subjects (like Data Structures) requiring practical classes, most of the classes wrap up in one 
+half of the day. This gives the average student plenty of time to work on projects and 
+competitions at various levels. If at all you are determined to take some highly competitive 
+tests further, you’ll have all the time in the world to prepare. Also, the curriculum is designed so 
+as to give you a head start in competitive exams.
+
+When it comes to internships, the five year course acts as a boon, as with more years in hand, 
+the student can explore more research opportunities as well as company internships in 
+different fields of mathematics. For the smarter ones among us, this means more countries to 
+visit during the course.
+
+The job prospects that the branch offers are manifold. You are taught enough to choose 
+whether you want to pursue the computational side, or finance and consultancy, or research. 
+You can be considered for consultancy, banks, other financial institutions, and software and 
+data analytics companies. Many students pursue a career in academia and research by applying 
+for PhDs at reputed Ivy League Institutes.  And if none of these fields appeal to you, with the 
+limited contact hours, you will always have more than enough time to explore other options.
+

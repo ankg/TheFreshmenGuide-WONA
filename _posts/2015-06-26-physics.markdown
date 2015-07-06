@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "MSc Physics"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+_In the same building as the Mathematics department and bears an uncanny resemblance to the
+same: Both these departments take in unemployable young geeks having a JEE rank that could 
+not grant them civil or chemical; and turn them into unemployable young geeks who regret 
+having a JEE rank that could not grant them civil or chemical. The entrance to the Physics 
+department is also regarded by many as a wormhole hidden in plain sight: transporting 
+unsuspecting entrants from a world of joy, togetherness and bun-samosas to one of misery, 
+practical records and where you can’t talk inside laboratories._
+
+###Course Structure
+
+The structure of the undergraduate physics course offered at Roorkee 
+consists of a package of standard undergraduate physics courses, designed to give a 
+rudimentary understanding of most of the basic and popular areas of physics research to the 
+students. Studies deal with condensed matter physics, nuclear physics, atmospheric and atomic 
+physics. Recent changes have been reflected in new courses being floated,such as those in 
+astrophysics, biophysics and quantum optics. 
+
+However, it is not all about the flashy courses that you can do in your ultimate or penultimate 
+year. Physics research is usually bottom up, and any researcher is expected to have a good 
+understanding of physical theories such as special relativity, electromagnetism, quantum theory 
+and classical mechanics. Students are supposed to take a number of compulsory courses in 
+these, besides the whole shebang of specialized courses in condensed matter physics, nuclear 
+physics, atomic and laser physics. Also, physics researchers are expected to have a sound 
+understanding of the mathematics of the physical theories that they will tackle, and students 
+are supposed to do compulsory courses or opt for electives, in mathematics. Calculus and linear 
+algebra are vital and covered in the first two years, and more advanced topics are covered in 
+the a mathematical physics course. There are also lab courses offered later, with specialized 
+labs in the final year. They, however, leave much to be desired.
+
+The department also offers courses in computational physics, which is vital to the skill set of 
+any physics researcher. Languages such as MatLab, Mathematica and Fortran are usually 
+taught, and students are taught to formulate and solve physical problems numerically. In the 
+wider program of physics research, this has become increasingly important as both 
+experimental and theoretical studies are turning to numerical calculations as a research tool.
+
+###Fields of Research
+
+Roorkee’s physics department has traditionally been a theoretical 
+stronghold. We have a number of experienced faculty specializing in nuclear physics, 
+condensed matter physics, atmospheric science and atomic physics. The new faculty has 
+brought in experience in fields such as astrophysics, biophysics and solar cell research. There is 
+an upcoming cutting edge lab in quantum optics, supposed to be operational soon, that is 
+expected to produce quality experimental research once working. Students, especially 
+undergraduates, have been known to participate in the department’s research activities. 
+Undergraduates are usually not expected to do research, but there have been instances of 
+students collaborating and even taking the lead on projects leading to publications. The 
+department is usually forthcoming to such initiatives on the student's’ part.
+
+###Internship opportunities 
+
+Students, especially undergraduates, have ample opportunities to 
+participate in active research during their summer and winter breaks. A number of summer 
+fellowships have been awarded to students to work at prestigious universities and research 
+institutions, both in India and abroad. Many senior students work with the researchers of their 
+choice over the breaks, where they are exposed to an intensive research environment, 
+experience they bring home to the benefit of their fellow students. There have been 
+participants in exchange programs like the WISE (DAAD Germany), the SN Bose Scholars 
+Program (USA) and the Mitacs Globalink Program (Canada), and other fruitful exchanges with 
+some European universities. A number of students also participate in the IAS fellowship 
+program, where they are paired with a leading researcher at an Indian university or institute for 
+the summer. It is also common for students to participate in summer and winter schools and 
+camps in specialized topics. A testament to the efficacy of such programs has been the number 
+of publications that have come out of these projects, assuring us that the students have been 
+exposed to quality research. This experience is vital in helping the undergraduates make an 
+informed choice when opting for graduate school. A great experience working in the lab, or on 
+theoretical or numerical projects has persuaded a number of skeptical students to opt to go to 
+graduate school.  
+
+###Opportunities after
+
+Opportunities for students after graduation are varied. On the physics 
+front, a doctorate degree is a necessity if the students want to be researchers. With the right 
+profile, a Roorkee graduate can make it to top schools in the US and Europe. Recent graduates 
+have made it to top Ivy League schools, and best research groups in Europe. It is also common 
+for students to get graduate positions at top Indian research institutes. The curious mix of 
+courses taught at Roorkee prepares well, the graduating students for life ahead as a physics 
+researcher.
+

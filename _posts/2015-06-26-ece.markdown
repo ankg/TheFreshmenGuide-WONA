@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Electronics and Communication Engineering"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+_Situated precisely 33.5 degrees to the right of the ECE circle, this department boasts of many 
+things other than their inappropriately shaped EC tower. <br />
+The professors of the ECE department are characterised by their fear, ruthless efficiency and 
+almost a fanatical devotion to surprise quizzes. Since nobody expects their inquisition, the 
+professors are known to declare surprise quizzes before hand and then surprise the students by 
+not taking any.<br />
+Although some people say that this department exists only to be belittled by its adjoining 
+department, the writers of this guide are not in possession of any concrete proof to substantiate 
+this and hence choose to dismiss this as mere speculation. Which is just a fancy of us saying: we 
+don’t have any freaking idea._
+
+This branch of engineering develops integrated circuits and printed circuit boards that can be 
+used in devices like mobiles, computers, tablets etc. Electronics engineers design, fabricate, 
+maintain, supervise and manufacture electronics devices. The applications are far reaching, 
+ranging from communication and defense to the entertainment industry. In a nutshell, this 
+branch deals with electronics devices and their software interfaces.  
+
+The branch in itself, is too vast to pick upon specific topics, but Digital logic design, Analog 
+circuits, Signals and Systems, Engineering Electromagnetics, Communication Systems and 
+Techniques, and Digital Signal Processing form the core of the branch.  
+
+With 3-4 hrs of self study per day an average student should be able to maintain a CG above 8. 
+This branch is filled with subjects that require practice to excel at, like Signals and Systems, 
+Electronic Network Theory, Digital Logic and Design to name a few. A strong background in 
+Mathematics (mainly probability and statistics) would definitely help.  
+
+Different fields of research within the branch include Communication Systems, Signals and 
+Image Processing, Microelectronics and VLSI, RF and Microwave Engineering. ECE also opens a 
+whole new spectrum of interdisciplinary research fields some of which include Mechatronics, 
+Robotics, Biomedical Engineering etc. 
+   
+With a Bachelors degree in ECE a student can apply for a job in any of these sectors – 
+Telecommunication, Hardware Manufacturing, Software Engineering/IT, Research & 
+Development, Home Appliance and VLSI design etc, Television Industry, Power sector.  
+
+The branch offers plenty of internship opportunities. One can get an intern in any field ranging 
+from software development to hardware engineering. One can also apply for internships 
+abroad at various foreign universities.
+
+Co-scholastic activities form a very important part of anyone's resume. Interviewers tend to pay 
+attention to this section, be it for internships or jobs. ECE offers a lot of opportunities to take up 
+projects. Some small projects are included in the course structure. To take up a Departmental 
+Project the student can go and talk to any faculty member, working on their field of interest, to 
+guide them on their project idea.
+
+Apart from that IITR has a number of student groups like the Electronics or Robotics section of 
+the Hobbies Club that gives you an opportunity of working on different projects. For those 
+interested in mechatronics or robotics there are groups like Robocon, ASME, FSAE etc. that 
+participate in various competitions. If working in big groups is not your cup of tea, then there 
+are various competitions like Texas Instrument Innovation Challenge (TIIC), Microsoft Imagine 
+Cup etc in which you can participate in small teams.
+
