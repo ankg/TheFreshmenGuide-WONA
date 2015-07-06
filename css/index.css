@@ -477,9 +477,9 @@
 			transition: all 0.25s ease-in-out;
 			padding-top: 3%;
 			text-align: center;
-			width: 60%;
+			width: 50%;
 			height: 90px;
-			margin-left: 18%;
+			margin-left: 24%;
 		}
 
 			.button.fa:before

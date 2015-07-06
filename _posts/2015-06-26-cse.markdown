@@ -4,7 +4,7 @@ title:  "Computer Science And Engineering"
 date:   2015-06-26 12:28:01
 categories: [departments]
 excerpt: 
-class: ch-img-3
+class: cse
 cover: cse_cover.jpg
 --- 	
 --------------------------------

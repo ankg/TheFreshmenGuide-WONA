@@ -4,8 +4,8 @@ title:  "Chemical Engineering"
 date:   2015-06-26 12:28:01
 categories: [departments]
 excerpt: 
-class: ch-img-3
-cover: academics_cover.jpg
+class: chemical
+cover: chemical_cover.jpg
 --- 	
 --------------------------------
 _The department of chemical engineering is by far the most controversial dept at IITR. From

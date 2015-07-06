@@ -4,8 +4,8 @@ title:  "Electrical Engineering"
 date:   2015-06-26 12:28:01
 categories: [departments]
 excerpt: 
-class: ch-img-3
-cover: academics_cover.jpg
+class: electrical
+cover: electrical_cover.jpg
 --- 	
 --------------------------------
 _The department of Electrical Engineering is strategically at the worst location in IITR.

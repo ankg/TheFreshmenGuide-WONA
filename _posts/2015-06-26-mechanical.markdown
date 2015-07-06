@@ -4,8 +4,8 @@ title:  "Mechanical Engineering"
 date:   2015-06-26 12:28:01
 categories: [departments]
 excerpt: 
-class: ch-img-3
-cover: academics_cover.jpg
+class: mechanical
+cover: mech_cover.jpg
 --- 	
 --------------------------------
 _The Mechanical department was established in 1946. It faced many problems initially, most of which 
