@@ -3,7 +3,7 @@ layout: default
 title:  "Departments"
 date:   2015-06-26 12:28:01
 categories: [section]
-excerpt: Have a look at the respective departments of IIT Roorkee.
+excerpt: A highly factual, precisely calculated dose of all that a faccha needs to know about the branches that exist or pretend to exist in IITR.
 class: ch-img-4
 cover: departments_cover.jpg
 --- 	
