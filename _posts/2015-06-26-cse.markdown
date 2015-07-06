@@ -59,7 +59,4 @@ Structures.
 The mean salary in India for a CS undergrad is easily between 10-18 lakhs. The average package is 
 however, an unhelpful quantity, owing to the huge window in the pay package.  
 
-Algorithmic Coding is the most celebrated sport in the CS community. Not to forget the Cyber Security 
-or Capture the Flag (CTF) contests, and the Data Science challenges which have been gaining popularity 
-of late.
-
+A large number of Cyber Security or Capture the Flag (CTF) contests and Data Science challenges have cropped up in the last few years. However, Algorithmic coding still remains the most celebrated sport in the CS community.
