@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Biotechnology"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: ch-img-3
+cover: academics_cover.jpg
+--- 	
+--------------------------------
+_The department of Biotechnology is perhaps one of the cleanest places of IITR. That’s primarily
+because it’s got a new building. An urban legend says that the previous building caught fire and 
+was left abandoned. There are many theories that surround the cause of fire but most of them 
+make no sense._
+
+_A typical biotech undergrad usually plans his industrial trip for whole two years. He spends the 
+next two years posting the 4200 photos he took while on the trip, while also reminiscing about 
+the trip to anyone who'll listen._
+
+The most salient feature of the branch, apart from the glitzy new building and research labs as 
+mentioned above, is the limited class strength, as compared to the other branched. This 
+facilitates interaction amongst each other, as with the faculty members. Most of the 
+coursework is focused on research based areas in biological sciences. The engineering part 
+primarily comprises of courses from the Chemical engineering department.
+
+The subjects can be broadly classified into two. Reaseach based and engineering based.
+The former consists of Genetic Engineering, Cell and Microbiology, Immunotechnology, 
+Biochemistry and Biophysics, Microbial Technology, Animal and Plant Technology, IPR and 
+Bioethics, Nano-biotechnology, Food Technology and Drug Design; while the latter 
+includes Bioreactor design, Fluid Mechanics, Bio-separation techniques, Principles of 
+Bioreaction Engineering, and Enzyme Technology.
+
+There are countless research fields in Biotech. Broadly the fields could be related to Cancer 
+Research, Stem Cell Research, Infectious diseases, Immunological studies, Drug design, 
+Neuroscience, Evolutionary Biology, and Bio-medical engineering.
+
+Although the job opportunities in the core sector are limited after BTech, the scope widens 
+immensely after specialization. You can choose between policy making in regulatory bodies 
+(UN, FDA, FAO) of patent Law, academia or jobs as technical heads in biotech/pharmaceutical 
+industry, and engineers in biomedical-instrumentation.
+
+Owing shift of the focus of global research towards bioscience (especially in Europe, US and 
+Canada), this branch provides endless opportunities to explore the global research paradigm 
+and get international exposure. Some popular internship programs are Mitacs-Globalink 
+(Canada), DAAD-WISE (Germany), VISERA(Vanderbilt University, US), Khorana Scholarship, OIST 
+(Okinawa Institute, Japan), Duke University (US), Rockefeller (US) and University of Queensland 
+(Australia). Apart from these, due to ample flow of funds in bioscience, a lot of professors 
+accept international interns for a period of 2-3 months for summer/winter interns in their labs. 
+TIFR, IISC, CMBL, CBRI, CDRI etc are some research facilities within India which conduct really 
+good research and provide internships to biotech students. Engineering based internships are 
+offered by pharmaceutical companies like Biocon, Cipla, Ranbaxy and Biozeen.
+
+There are paper presentation and poster presentation competitions and global conferences. 
+Undergraduate students don't generally go for these unless they have been involved in some 
+active research alongside their coursework and the lab head(Professor) encourages them to 
+take part and provides suitable support (finances, permissions etc). Not common but possible 
+for those inclined towards research. 
+Most students like to participate in coding/design based competitions as their co-scholastic 
+interests vary.
+
