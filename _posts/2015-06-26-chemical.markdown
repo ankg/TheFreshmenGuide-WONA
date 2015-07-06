@@ -48,13 +48,13 @@ and molecular computations, Catalysis and Reaction Engineering, Systems design 
 Engineering, Transport Processes, Biological Engineering, Materials, Polymers, Surfaces and 
 Structures, and Energy and Environmental Engineering.
 
-###Internship opportunities
+####Internship opportunities
 
 The industrial heavyweights like ITC, Schlum and Reliance offer the best internship 
 opportunities. The likes of companies such as Shree Cement invite interns through CPT. The rest 
 are accomodated in the petroleum refineries owned by IOCL, NFL etc.  
 
-###Employers, Job opportunities and Pay scale  
+####Employers, Job opportunities and Pay scale  
 
 A greater percentage of the students get non-core jobs.  
 
@@ -71,7 +71,7 @@ engineer,  Production manager, and Quality manager.
 
 The paycheck of a Chemical Engineering graduate reads, on an average, 8L per annum.
 
-###Co-scholastic activities
+####Co-scholastic activities
 
 The professors eagerly back students willing to take up innovative projects. A trend of venturing 
 ahead with new ideas has, however, not been established in the department yet.  

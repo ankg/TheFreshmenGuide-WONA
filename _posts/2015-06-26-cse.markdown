@@ -8,13 +8,13 @@ class: ch-img-3
 cover: academics_cover.jpg
 --- 	
 --------------------------------
-The main purpose of the existence of this department is to belittle its adjoining 
+_The main purpose of the existence of this department is to belittle its adjoining 
 department by offering common courses to the EC and CS students which then the CS 
 students end up nailing. Apart from this it offers a couple of programming courses, 
 air-conditioned labs to play minesweeper and a sprawling cycle stand that takes pride 
 in its ancient history. Every once in a while a couple of CS grads get crore plus offers 
 and the news does the rounds in the dailies. Apart from that, there isn't much that 
-goes on round the year.  
+goes on round the year._  
 
 Computer Science, compared to the other branches of engineering, is a relatively newer field 
 of study. The exponential burst came with the advent of corporate giants like Apple and 

@@ -23,7 +23,7 @@ facilitates interaction amongst each other, as with the faculty members. Most of
 coursework is focused on research based areas in biological sciences. The engineering part 
 primarily comprises of courses from the Chemical engineering department.
 
-The subjects can be broadly classified into two. Reaseach based and engineering based.
+The subjects can be broadly classified into two. Reasearch based and engineering based.
 The former consists of Genetic Engineering, Cell and Microbiology, Immunotechnology, 
 Biochemistry and Biophysics, Microbial Technology, Animal and Plant Technology, IPR and 
 Bioethics, Nano-biotechnology, Food Technology and Drug Design; while the latter 
@@ -50,11 +50,7 @@ TIFR, IISC, CMBL, CBRI, CDRI etc are some research facilities within India which
 good research and provide internships to biotech students. Engineering based internships are 
 offered by pharmaceutical companies like Biocon, Cipla, Ranbaxy and Biozeen.
 
-There are paper presentation and poster presentation competitions and global conferences. 
-Undergraduate students don't generally go for these unless they have been involved in some 
-active research alongside their coursework and the lab head(Professor) encourages them to 
-take part and provides suitable support (finances, permissions etc). Not common but possible 
-for those inclined towards research. 
+There are also numerous paper and poster presentation competitions and global conferences pertaining to the field. Undergraduate participation in these is limited, albeit not impossible if you are inclined towards research. 
 Most students like to participate in coding/design based competitions as their co-scholastic 
 interests vary.
 

@@ -3,13 +3,11 @@ layout: post
 title:  "Groups, Clubs and Societies"
 date:   2015-06-26 12:28:01
 categories: [section]
-excerpt: Explore the various socities at IITR
+excerpt: Explore the different societies at IITR
 class: ch-img-13
 cover: groups_cover.jpg
 --- 	
 -------------------------------------------------------------------------------
-
-###Introduction
 
 The most dominant species of IITR (after dogs, trees and matkas) is homo sapiens. It is observed 
 that the needs and wants of this species range from basic necessities (of food, sleep, territory, 
@@ -60,7 +58,7 @@ The Choreography section is perhaps one of the toughest Cultural Society groups 
 you are a typical Indian dancer who reluctantly dances in baraat, this section is just not for you. 
 Although, saying that it requires prodigious dancing skills (that make Mithun da go Kya baat, 3 
 times) won’t be totally correct either. Choreo (in IITR lingo) trains part-time dancer IITians into 
-complete performers. Their shows are generally filled with power-packed  [performances](https://www.youtube.com/watch?v=JsHhjxK8jao), with 
+complete performers. Their shows are generally filled with power-packed  [performances](https://www.youtube.com/watch?v=uXOoygliTo8), with 
 the dance-forms ranging from Jazz, Western and Contemporary to typical Bollywood, Punjabi 
 and South Indian. You get to glimpse their year-long hard-work in the cultural week, their 
 performances in Footloose (Thomso event) and  [flash  mob(s)](https://www.youtube.com/watch?v=UUWrjA2AJvg) they organize in Thomso and 

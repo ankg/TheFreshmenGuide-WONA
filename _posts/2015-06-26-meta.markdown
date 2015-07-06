@@ -8,10 +8,10 @@ class: ch-img-3
 cover: academics_cover.jpg
 --- 	
 --------------------------------
-Meta, as it is termed in IITR lingo, is better known as the chemical engineering 
+_Meta, as it is termed in IITR lingo, is better known as the chemical engineering 
 department’s poorer cousin. The metallurgical department undergrads are identified by 
 their strong indulgence in the affairs of the institute and anything which isn’t even remotely 
-related to their branch.
+related to their branch._
 
 The ability to understand and manipulate materials and their properties is a key factor in any 
 industrial process or technology. Metallurgy is a domain of materials engineering that studies the 
@@ -22,7 +22,7 @@ The Metallurgical and Materials Engineering Department is one of the most active
 IITR, with multiple societies such as METES & Material Advantage Student Chapter, comprising of 
 both students and faculty.
 
-###INTERNSHIPS
+####INTERNSHIPS
 
 Since the summer term after third year carries credits for an internship, it would be unwise to ignore 
 this section. Broadly classified into three categories namely, research, industrial and non-core, 
@@ -34,7 +34,7 @@ experience. A faction of students look upon steel giants and other associated in
 opening as a summer trainee. Apart from core ventures, people tend to go for interns in finance 
 sector, consultancy and firms for designing & advertisements as well.
 
-###RESEARCH 
+####RESEARCH 
 
 Material Science has immense scope for research, and many graduates opt for Masters or PhDs in 
 the subject of their choice after graduation. A lot of research is undertaken by the professors, in the 
@@ -42,7 +42,7 @@ department, in the self sufficient laboratories. 330+ scores in GRE along with i
 profiles have taken our graduates to top research laboratories such as those in Stanford University, 
 UIUC, U of Wisconsin-Madison, Princeton etc.
 
-###PLACEMENTS
+####PLACEMENTS
 
 The placements are satisfactory albeit not good enough to make headlines. As far as the campus 
 placements are considered, students are eligible for almost all data analytic and consultancy firms 

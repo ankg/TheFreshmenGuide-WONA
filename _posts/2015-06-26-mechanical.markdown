@@ -17,7 +17,6 @@ technology and tendency to give orgasmic reactions at the sight of any company w
 
 The bachelor course for Mechanical Engineering at IITR can be broadly divided into the 
 following subjects:
-
 Thermal Engineering and Fluids, Manufacturing, and Machine Design & Robotics.
 
 Apart from these subjects the curriculum also includes introductory courses to the other 
@@ -57,6 +56,4 @@ which, for most of the candidates turn out to be a blood pressure escalating aff
 try for a foreign intern in countries such as Germany, Canada, Japan and USA with the help of 
 various intern programs.
 It would be a futile attempt to prepare an exhaustive list for all the career options available, 
-because they are simply innumerable. This is the time you that you make your dreams come 
-true, you just need to realize them before it is too late, and jump in with all the strength there 
-is!
+because they are simply innumerable.

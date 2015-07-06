@@ -16,7 +16,7 @@ department is also regarded by many as a wormhole hidden in plain sight: transpo
 unsuspecting entrants from a world of joy, togetherness and bun-samosas to one of misery, 
 practical records and where you can’t talk inside laboratories._
 
-###Course Structure
+####Course Structure
 
 The structure of the undergraduate physics course offered at Roorkee 
 consists of a package of standard undergraduate physics courses, designed to give a 
@@ -43,7 +43,7 @@ taught, and students are taught to formulate and solve physical problems numeric
 wider program of physics research, this has become increasingly important as both 
 experimental and theoretical studies are turning to numerical calculations as a research tool.
 
-###Fields of Research
+####Fields of Research
 
 Roorkee’s physics department has traditionally been a theoretical 
 stronghold. We have a number of experienced faculty specializing in nuclear physics, 
@@ -56,7 +56,7 @@ Undergraduates are usually not expected to do research, but there have been inst
 students collaborating and even taking the lead on projects leading to publications. The 
 department is usually forthcoming to such initiatives on the student's’ part.
 
-###Internship opportunities 
+####Internship opportunities 
 
 Students, especially undergraduates, have ample opportunities to 
 participate in active research during their summer and winter breaks. A number of summer 
@@ -76,7 +76,7 @@ informed choice when opting for graduate school. A great experience working in t
 theoretical or numerical projects has persuaded a number of skeptical students to opt to go to 
 graduate school.  
 
-###Opportunities after
+####Opportunities after
 
 Opportunities for students after graduation are varied. On the physics 
 front, a doctorate degree is a necessity if the students want to be researchers. With the right 

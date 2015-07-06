@@ -1,17 +1,17 @@
 
 .post{
 	text-align: left;
-	max-width: 70%; 
+	max-width: 78%; 
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 17px;
+	font-size: 16px;
 	background: white;
 	padding: 1%;
 	padding-left: 2% ;
 	padding-right: 2% ;
 	margin-bottom: 2%;
 	margin-top: 2%;
-	line-height: 140%;
+	line-height: 190%;
 }
 .post .post-header{
 	
@@ -29,10 +29,14 @@
 }
 .post .post-content h3, .post .post-content h2{
 	color: #316882;
+	font-size: 1.25em;
+}
+.post .post-content h4{
+	color: #316882;
 }
 .post .post-content p{
 	display: block !important;
-	margin: 4% !important;
+	margin: 3% !important;
 }
 .post ol li{
 	list-style-type: decimal;
