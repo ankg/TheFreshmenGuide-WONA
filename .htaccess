@@ -1,0 +1,5 @@
+IndexIgnore *
+RewriteEngine on 
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?domain\.ltd [NC] 
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?domain\.ltd.*$ [NC] 
+RewriteRule \.(png|jpg|js|txt|html|css)$ /Nothing Here for you, man. Bummer! [L]

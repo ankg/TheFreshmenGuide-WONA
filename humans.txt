@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Content by Team Watch Out! [http://facebook.com/WatchOutNewsAgency]
+    Website by Aniket Gupta [http://ankg.github.io]
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Jekyll
+    jQuery, Modernizr
