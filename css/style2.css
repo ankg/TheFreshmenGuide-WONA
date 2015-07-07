@@ -142,6 +142,8 @@
 		inset 0 0 0 150px rgba(255,255,255,0.8),
 		inset 0 0 0 20px rgba(255,255,255,0.9),
 		0 1px 2px rgba(0,0,0,0.1);
+	cursor: pointer;
+	cursor: hand;
 }
 /*rgba(200,95,66, 0.8),*/
 .ch-item:hover .ch-info {

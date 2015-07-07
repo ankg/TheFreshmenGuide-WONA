@@ -475,13 +475,14 @@
 			-o-transition: all 0.25s ease-in-out;
 			-ms-transition: all 0.25s ease-in-out;
 			transition: all 0.25s ease-in-out;
-			padding-top: 3%;
+			padding-top: 6%;
+			padding-left: 3%;
+			padding-right: 3%;
 			text-align: center;
-			width: 50%;
-			height: 90px;
-			margin-left: 24%;
+			min-width: 80%;
+			height: 4em;
+			margin-left: 11%;
 		}
-
 			.button.fa:before
 			{
 				position: relative;
@@ -1037,10 +1038,17 @@
 		margin-top:30px;
 		margin-bottom:30px;
 	}
+	#introduction-wrapper img{
+		margin-left: 4.5%; 
+		max-width: 90%;
+		height: auto;
+		width: auto;
+	}
 	#introduction-wrapper h1
 	{
 	  color:#316882;
-	  margin-left: 40%;
+	  margin-left: auto;
+	  margin-right: auto;
 	}
  	#introduction-wrapper #introduction
 	{		
