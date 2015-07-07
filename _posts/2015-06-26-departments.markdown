@@ -14,7 +14,7 @@ cover: departments_cover.jpg
         {% for post in site.posts %}
           {% if post.categories contains 'departments' %}
             <li>
-             <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
+             <a href="{{post.url}}" target="_blank">
                 <div class="ch-item {{post.class}}">
                   <div class="ch-info">
                     <h3>{{post.title}}</h3>
