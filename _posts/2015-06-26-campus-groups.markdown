@@ -31,8 +31,8 @@ provides the best (and perhaps the only) way to interact with girls whose profil
 unspecified times of the night. The only catch here is that most groups of the CultSoc have a 
 recruitment process. Yes that’s right. So, if at all you are one of those shiny eyed freshmen who 
 wishes to learn something and try out anything that mildly interests him, here’s the news: you 
-can’t. Unless you are you are judged by a godly senior of that group who was judged by this 
-other godly senior who in -turn was judged by god himself, you can’t be a part of that group. 
+can’t. Unless you are judged by a godly senior of that group who, in turn, was judged by this 
+other godly senior who in turn was judged by god himself, you can’t be a part of that group. 
 That is one of the sad realities of life at IITR and you’ll have to make peace with it. Though on 
 the upside, this does increase the exclusivity of these groups- which might come in handy on 
 your resume facebook profile.
@@ -59,7 +59,7 @@ you are a typical Indian dancer who reluctantly dances in baraat, this section i
 Although, saying that it requires prodigious dancing skills (that make Mithun da go Kya baat, 3 
 times) won’t be totally correct either. Choreo (in IITR lingo) trains part-time dancer IITians into 
 complete performers. Their shows are generally filled with power-packed  [performances](https://www.youtube.com/watch?v=uXOoygliTo8), with 
-the dance-forms ranging from Jazz, Western and Contemporary to typical Bollywood, Punjabi 
+the dance forms ranging from Jazz, Western and Contemporary to typical Bollywood, Punjabi 
 and South Indian. You get to glimpse their year-long hard-work in the cultural week, their 
 performances in Footloose (Thomso event) and  [flash  mob(s)](https://www.youtube.com/watch?v=UUWrjA2AJvg) they organize in Thomso and 
 Cogni.
@@ -70,8 +70,8 @@ _Recruitment Cracker:_ Being a good dancer (in others’ opinion) is more than e
 
 Music is a way of life in IITR. After being classified on the basis of gender, year, branch, group, 
 societies and number of Bun Samosas you can eat in a day, you can be classified on the basis of 
-the kind of Music you listen. Music Section of IITR consists of some very remarkable artists of 
-the campus who showcase their talents and semester-long hard -work at shows like _Pehla 
+the type of Music you listen to. Music Section of IITR consists of some very remarkable artists of 
+the campus who showcase their talents and semester-long hard work at shows like _Pehla 
 Nasha, Dhun and Swaranjali._ The diversity of artists in this section is quite unique. From Indian 
 classical to western hard rock, this group has all kinds of musicians, each with a distinct taste in 
 Music. Selection in this group is based purely on skill.  
@@ -103,7 +103,7 @@ Angry Men, we would advise you to give these two groups a try.
 
 ####Magazines
 
-Under the aegis of cultural society, there are 2 magazines: WatchOut and Kshitij!
+Under the aegis of cultural society, there are 2 magazines: WatchOut! and Kshitij.
 
 Watch Out! is the official news magazine of IIT Roorkee. As the name suggests, WoNA covers 
 the happenings and ongoings of life at IITR along with the issues that surround the 
@@ -156,10 +156,10 @@ figure out why that would be required.
 
 ####SDSLabs
 
-SDSLabs is perhaps one of the most iconic groups of IITR. It’s initiation in 2010 acted as a 
+SDSLabs is perhaps one of the most iconic groups of IITR. Its initiation in 2010 acted as a 
 symbol of hope for the geek community who were tired of being branded as uncool nerds and 
 banished from the happening places in the campus. SDSLabs is the group that manages SDS, an 
-open for all hobbies club section. SDS also includes various other sub-section like Mobile 
+open for all hobbies club section. SDS also includes various other sub-sections like Mobile 
 Developement Group, Linux User Group and PAG. _There’s however a dispute over the origin of 
 SDSLabs. Some say it that it was established the same time as that of AT&T’s Bell Labs and 
 helped in the development of Unix. We don’t believe them, as after all, Unix was made by God 
@@ -225,7 +225,7 @@ worldwide, from Australia in 2011 to UK in 2013, and have managed to secure posi
 as 2 out of 149. The group is aiming at producing an electric vehicle for Formula Student-UK 
 2015.
 
-_Recruitment Cracker:_ Some knowledge of car parts and interests in Cars will do the trick. If you 
+_Recruitment Cracker:_ Some knowledge of car parts and interest in cars will do the trick. If you 
 are in Mech. Engg., then surely this group will be your extended family.
 
 _Downside:_ A lot of books are required to be read, which becomes quite difficult if you have 
@@ -269,10 +269,10 @@ strategies and research in real world.
 
 In ancient days, the students of IIT Roorkee used to hold movie screenings for the R-junta every 
 weekend where everyone, from professors to students, had a great time. Somewhere down the 
-line (we think after the release of movies like _Jai Santoshi Maa_) the tradition was discontinued.
+line (we think after the release of movies like _Jai Santoshi Maa_, we guess) the tradition was discontinued.
 The Cinema Club was restarted this year by some brave souls. After two really fantastic 
 screenings of newly released movies, it is exactly what stands between the students and mass-
 suicides here in IIT-R. It organizes the special screenings of movies- partly because there is no 
-other cinema hall within 15 kms of the campus *, and partly because the members don’t have 
+other cinema hall within 15 kms of the campus, and partly because the members don’t have 
 much else to do. These screenings (which are free of cost, by the way) are met with much 
 fanfare in a Convo bottled down to its full capacity.

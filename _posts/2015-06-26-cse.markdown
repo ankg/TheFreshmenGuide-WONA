@@ -31,8 +31,8 @@ software. It is, in a nutshell, an integration of computer science and electrica
 curriculum covers both aspects.  
 
 Subjects like Data Structures and Algorithms, Discrete Structures, Computer Architecture, Operating 
-Systems and Networking etc are vital for a complete understanding of the branch. But the writers of the 
-guide would advice the freshmen to master the courses on Programming, since almost the entire CSE 
+Systems and Networking etc are vital for a complete understanding of the branch. The writers of the 
+guide would advise the freshmen to master the courses on Programming, since almost the entire CSE 
 curriculum depends on it.  
 
 There are wide areas of research that are open for any person who studies CS: Machine Learning 
@@ -42,10 +42,10 @@ Mathematics, Programming Languages, Data Mining, Database Management Systems, to
 Apart from that, there's the field of Data Analytics, incorporating concepts of DBMS and Statistics, 
 famously known as Big Data.  
 
-CS grads who know their basics are high in demand. But, the catch here is precision. You cannot fool or 
-wriggle your way out of any situation. As an engineer you need to understand and deal with the realities 
+CS grads who know their basics are high in demand, but the catch here is precision. You cannot fool or 
+wriggle your way out of any situation. As an engineer, you need to understand and deal with the realities 
 of the problem and find out a viable solution. That takes a lot of study and practice. A job in CSE is only 
-AND ONLY dependent upon your ability to find solve problems.  
+(AND ONLY!) dependent upon your ability to find solve problems.  
 
 In the industry, the job descriptions include Software Engineers, Data Analysts, System Programmers, 
 Software Program Manager and Software Architect. Additionally, if you pursue higher studies (M.S. or 

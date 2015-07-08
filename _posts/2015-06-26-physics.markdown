@@ -20,12 +20,12 @@ practical records and where you can’t talk inside laboratories._
 
 The structure of the undergraduate physics course offered at Roorkee 
 consists of a package of standard undergraduate physics courses, designed to give a 
-rudimentary understanding of most of the basic and popular areas of physics research to the 
-students. Studies deal with condensed matter physics, nuclear physics, atmospheric and atomic 
+rudimentary understanding of most of the basic and popular areas of research in physics to the 
+students. Studies deal with condensed matter physics, nuclear physics, atmospheric physics and atomic 
 physics. Recent changes have been reflected in new courses being floated,such as those in 
 astrophysics, biophysics and quantum optics. 
 
-However, it is not all about the flashy courses that you can do in your ultimate or penultimate 
+However, it is not all about the flashy courses that you take up in your ultimate or penultimate 
 year. Physics research is usually bottom up, and any researcher is expected to have a good 
 understanding of physical theories such as special relativity, electromagnetism, quantum theory 
 and classical mechanics. Students are supposed to take a number of compulsory courses in 
@@ -33,7 +33,7 @@ these, besides the whole shebang of specialized courses in condensed matter phys
 physics, atomic and laser physics. Also, physics researchers are expected to have a sound 
 understanding of the mathematics of the physical theories that they will tackle, and students 
 are supposed to do compulsory courses or opt for electives, in mathematics. Calculus and linear 
-algebra are vital and covered in the first two years, and more advanced topics are covered in 
+algebra are vital and covered in the first two years. More advanced topics are covered in 
 the a mathematical physics course. There are also lab courses offered later, with specialized 
 labs in the final year. They, however, leave much to be desired.
 
@@ -46,15 +46,15 @@ experimental and theoretical studies are turning to numerical calculations as a 
 ####Fields of Research
 
 Roorkee’s physics department has traditionally been a theoretical 
-stronghold. We have a number of experienced faculty specializing in nuclear physics, 
+stronghold. We have an experienced faculty specializing in nuclear physics, 
 condensed matter physics, atmospheric science and atomic physics. The new faculty has 
-brought in experience in fields such as astrophysics, biophysics and solar cell research. There is 
+brought in expertise in fields such as astrophysics, biophysics and solar cell research. There is 
 an upcoming cutting edge lab in quantum optics, supposed to be operational soon, that is 
 expected to produce quality experimental research once working. Students, especially 
-undergraduates, have been known to participate in the department’s research activities. 
+undergraduates, have been known to participate actively in the department’s research activities. 
 Undergraduates are usually not expected to do research, but there have been instances of 
 students collaborating and even taking the lead on projects leading to publications. The 
-department is usually forthcoming to such initiatives on the student's’ part.
+department is usually forthcoming to such initiatives on the students’ part.
 
 ####Internship opportunities 
 

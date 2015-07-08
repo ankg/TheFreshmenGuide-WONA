@@ -38,7 +38,7 @@ Students can opt for MBA in Operations (or in general) or pursue MS in any field
 Engineering (Analytics, Optimization, Facilities Systems and Network Planning, Stochastic 
 Modelling and Simulation, Health Systems, Manufacturing, SCM, Operations Research).
 For those interested in Production, the fields of research include Advanced machining, 
-UltraSonic machining, Electro Discharge Machining, Submerged Arc Welding, Computer 
+Ultrasonic machining, Electro Discharge Machining, Submerged Arc Welding, Computer 
 Numerically Controlled machining are the fields for research.
 
 Not more than 10 on-campus offers for internships are offered. A lucky few get to do a fully 
@@ -46,7 +46,7 @@ funded research internship in Germany via DAAD, in Canada via MITAX, and in Japa
 HondaYES+.
 
 As far as campus recruitments are concerned, PI students are eligible for almost all data 
-analytic and consultancy firms that visit the campus. Jobs opportunities are not scarce, but 
+analytic and consultancy firms that visit the campus. Job opportunities are not scarce, but 
 again, there is no free lunch. Roughly, the average pay scale is 6-7 lakhs.  
 
 Students get placed in companies across various sectors: Oil and Gas (Shell, Schlumberger), 

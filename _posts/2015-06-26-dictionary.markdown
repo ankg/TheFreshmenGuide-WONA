@@ -23,7 +23,7 @@ cover: dictionary_cover.jpg
 
 3. <u>__Ghissu:__</u>
 
-	(n.)The kind of person everyone wants to become, but can’t; and therefore subjects those who can to social ridicule. Characterised by high GPA and (generally) absent social life.  Read more.<br />
+	(n.)The kind of person everyone wants to become, but can’t; and therefore subjects those who can to social ridicule. Characterised by high GPA and (generally) absent social life.  <a href="/section/academics">Read more.</a><br />
 	
 	_“What! Abhijeet got a grace mark from sir because of his regularity and attention in class and managed to clear his backlog? That __ghissu__! “_
 
@@ -89,8 +89,8 @@ cover: dictionary_cover.jpg
 13. <u>__Bandi__</u>
 
 	(n.) A person characterised by the presence of two X-chromosomes. A rare species in IIT.
-	A D.U. guy talking with someone from the Mechanical Deptt. of any
-	IIT.
+	_A D.U. guy talking with someone from the Mechanical Deptt. of any
+	IIT._
 
 	_“Want to hear a joke?” “Yeah!”
 	“__Bandi__”
@@ -105,13 +105,13 @@ cover: dictionary_cover.jpg
 
 15. <u>__Chapai / Chapna__</u>
 
-	(v.) Copying (specially assignments). A term heavily used the night before submissions of any kind.
+	(v.) Copying (especially assignments). A term heavily used the night before submissions of any kind.
 
 	_“ Tut de be, __chapna__ hai”_
 
 16. <u>__Chaggi__</u>
 
-	(n.) A person whose CG is 6.something. He/She can be characterised by a light-minded approach towards life and (thereafter) tensed expressions during placements. Similarly we have satti, atthi, nehli and dassi.
+	(n.) A person whose CG is 6.something. He/She can be characterised by a light-minded approach towards life and (thereafter) tense expressions during placements. Similarly we have satti, atthi, nehli and dassi.
 
 	_“Bhai tera paper hi toh chepa tha. Teri atthi lagi aur meri __chaggi__?”_
 
@@ -163,7 +163,7 @@ cover: dictionary_cover.jpg
 
 24. <u>__Net__</u>
 
-	(n.)A worldwide interconnection of computer networks which can be exploited for exchange of information, boost businesses, improve academics or build scalable products to improve the lives of millions.
+	(n.)A worldwide interconnection of computer networks which can be exploited for exchange of information, to boost businesses, improve academics or build scalable products to improve the lives of millions.
 	Sadly reduced to a tool for stalking your crushes or salivating over cute kitten videos on youtube.
 
 	_“Bhai bahaut bore ho raha hu. (sad smiley)” “__Net__ down hai kya be?’_
@@ -184,7 +184,7 @@ cover: dictionary_cover.jpg
 
 27. <u>__Tut__</u>
 
-	(n.)Short for tutorial. Refers to an assignment professors give in the (unrealistic) hope of students completing it by themselves and submitting. Have some weightage in your final CG, so don’t risk even trying to solve it yourself. Might result in several backlogs and/or unintentional hatred directed toward those who copied it and got  dassis.
+	(n.)Short for tutorial. Refers to an assignment professors give in the (unrealistic) hope of students completing it by themselves and submitting on time. Has some weightage in your final CG, so don’t risk even trying to solve it yourself. Might result in several backlogs and/or unintentional hatred directed toward those who copied it and got  dassis.
 
 	_“This Maths __tut__ is like a girl’s attention. I just don’t get it.”_
 
@@ -263,7 +263,7 @@ cover: dictionary_cover.jpg
 
 37. <u>__Cogni certi__</u>
 
-	(n.)Short for Cognizance certificate. Is just like a Starbucks mocha: everyone craves for one, no one knows why. More than his participation; this piece of paper serves as certification of the receiver’s knack for making bad decisions. Similarly we have certificates for participation in Thomso.
+	(n.)Short for Cognizance certificate. Is just like a Starbucks mocha: everyone craves one, no one knows why. More than his participation; this piece of paper serves as certification of the receiver’s knack for making bad decisions. Similarly we have certificates for participation in Thomso.
 
 	_“Hey. I heard you’re working for Cognizance organising committee this year?”_  
 

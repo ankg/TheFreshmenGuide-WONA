@@ -78,7 +78,7 @@ spend time without any disturbance.
 
 ###Neelam(Movie Theatre?):
 
-About 800m from the campus, there exists the only cinema hall (albeit barely) inside Roorkee. It 
+About 800m from the campus, there exists the only cinema hall (albeit barely) in Roorkee. It 
 usually screens B-grade Bollywood movies, whose names can put even Kanti Shah (of _Fauji Fauj 
 Mein, Padosi Mauj Mein_ fame) to start looking for a place to hide his embarrassed face. There 
 are exceptions to this rule, of course. Last time your authors <s>visited this theatre</s> passed this 

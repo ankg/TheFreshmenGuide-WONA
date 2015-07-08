@@ -39,3 +39,8 @@ body{
 .ch-grid li:after, .ch-grid li:before {
 	outline: none;
 }
+@media screen and (max-width: 360px){
+	body{
+		max-width: 100%;
+	}
+}

@@ -9,7 +9,7 @@ cover: academics_cover.jpg
 --- 	
 --------------------------------
 
-In the 4 or 5 long years of undergraduate life, academics act as a centre of gravity of a student’s life. Though the power of the gravitational field varies from person to person, it acts as an innocuous motivation to attend the lectures (That and the 75% attendance rule). The academic structure in IITR, like its sister IITs, involves a credit based approach towards the ultimate CG calculation. There are many intricacies in this system, so without bothering you with too much details, we present a readable and not-so-boring intro to the Academic System. For lack of better terms, we shall call it ACAD-101.
+In the 4 or 5 long years of undergraduate life, academics act as the centre of gravity of a student’s life. Though the power of the gravitational field varies from person to person, it acts as an innocuous motivation to attend the lectures (That and the 75% attendance rule). The academic structure in IITR, like its sister IITs, involves a credit based approach towards the ultimate CG calculation. There are many intricacies in this system, so without bothering you with too many details, we present a readable and not-so-boring intro to the Academic System. For lack of better terms, we shall call it ACAD-101.
 
 
 ###Courses  
@@ -18,7 +18,7 @@ The time of school has passed. Your old, beloved subjects are now replaced by mo
 
 __1. Year:__ The core courses of your department (exclusive to your branch) are in the order of increasing dependence. Generally speaking, in the initial two years the courses aim to cover the breadth of all topics in your field. Later on, courses are designed to deepen your knowledge, and teach you the various intricacies of these topics.
 
-__2. Type:__ Elective courses are additional courses you take after the 1st year in every succeeding semester. They can pertain to science, humanities or management and are mostly of 2-3 credits. They are instituted to allow the student to gather knowledge of fields other than those of his core branch. However, in most cases they have been reduced to an excuse for students to interact with the better looking females of Archi or Chemical branch.
+__2. Type:__ Elective courses are additional courses you take after the 1st year in every succeeding semester. They can pertain to science, humanities or management and are mostly of 2-3 credits. They are instituted to allow the student to gather knowledge of fields other than those of his core branch. However, in most cases they have been reduced to an excuse for students to interact with the better looking females of Architecture or Chemical branch.
 
 ###Credits
 
@@ -49,7 +49,7 @@ The months of November and April witness the migration of hoards of clueless stu
 
 ###Branch Changer (BC)
 
-Any resemblance that this acronym bears with that of a rather infamous Hindi swear word is sworn to be nothing more than innocuous coincidence. With stringent branch change regulations sprouting a new roadblock around every corner, it’s quite a challenge to be a BC. A branch change occurs after your first semester, and requires serious dedication to studies and an utter disregard to  Maslow’s theory. It’s tough, highly competitive and insanely unpredictable. However, it has its perks too.
+Any resemblance that this acronym bears with that of a rather infamous Hindi swear word is sworn to be nothing more than innocuous coincidence. With stringent branch change regulations sprouting a new roadblock around every corner, it’s quite a challenge to be a BC. A branch change occurs after your first semester, and requires serious dedication to studies and an utter disregard to  [Maslow’s theory](http://www.wikiwand.com/en/Maslow%27s_hierarchy_of_needs). It’s tough, highly competitive and insanely unpredictable. However, it has its perks too.
 
 ###Special Classification
 Social strata in Planet R can be taxonomically divided into 2 kingdoms - _Ghissus_ and _non Ghissus_. Further phylla include _productive_ and _non-productive_ ghissus. _Non ghissus_ thrive on top of the social food chain and _Ghissus_ triumph academically. The _Ghissus_	 account for 50% of the occupancy of MGCL on normal days. The other 50% is made up of young couples looking for a quiet corner to canoodle.

@@ -11,7 +11,7 @@ cover: rules_cover.jpg
 
 So you think only the highly intellectual can be eccentric? Check out the weird rules the administration has put up at IIT R.  
 
-1. Stepping on lawns is strictly prohibited. You might get shot at sight, or worse, be exposed to two and a half hours of  Gunda. There are exceptions of course; like if it's your convo, or  poly results are being announced.  
+1. Stepping on lawns is strictly prohibited. You might get shot at sight, or worse, be exposed to two and a half hours of [Gunda](https://www.youtube.com/watch?v=L2bFsQWaDTg). There are exceptions of course; like if it's your convo, or  poly results are being announced.  
 
 2. Conversing/Looking at/Walking with the females in front of KB or SB is banned.  
 

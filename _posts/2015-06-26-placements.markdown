@@ -5,11 +5,11 @@ date:   2015-06-26 12:28:01
 categories: [section]
 excerpt: The nature of companies who come to IITR for placements is quite diverse.
 class: ch-img-10
-cover: placement_cover.jpg
+cover: placements_cover.jpg
 ---
 ---------------------------------------------
 
-Things change drastically when you enter the final year. Here for the final year students, the months of October, November and December are taken over by the one and only one season: the placement season.
+Things change drastically when you enter the final year. Here for the final year students, the months of October, November and December are taken over by the placement season.
 
 ###The Placement Season
 
@@ -17,13 +17,13 @@ This season, among all the seasons of IITR can be identified as the time of year
 
 1. It begins and ends in fourth year.  
 
-2. It is highly unpredictable  
+2. It is highly unpredictable.  
 
 3. Your  CG, irrespective of the department, matters.  
 
 4. Your starting job (which you’ll probably get after 4 (or 5) years from now) is not the thing you should be worried about right now.
 
-The nature of companies who come to IITR for placements is quite diverse. We get software giants like Microsoft, Oracle, Google and Facebook, investment Banks like Goldman Sachs and Morgan Stanley, oil and Mining companies of Schlumberger, Shell and Rio Tinto and numerous other firms who give decent jobs in the domain of software, product development, finance and the core sector of civil, mechanical and electrical engineering.
+The nature of companies who come to IITR for placements is quite diverse. We get software giants like Microsoft, Oracle, Google and Facebook, investment banks like Goldman Sachs and Morgan Stanley, oil and mining companies of Schlumberger, Shell and Rio Tinto and numerous other firms who give decent jobs in the domain of software, product development, finance and the core sectors of civil, mechanical and electrical engineering.
 
 ###Placement Complex
 

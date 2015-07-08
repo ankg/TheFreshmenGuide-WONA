@@ -25,7 +25,7 @@ both students and faculty.
 ####INTERNSHIPS
 
 Since the summer term after third year carries credits for an internship, it would be unwise to ignore 
-this section. Broadly classified into three categories namely, research, industrial and non-core, 
+this section. Broadly classified into three categories, namely, research, industrial and non-core, 
 students can pursue their interests in this period to align their professional choices. Programs such 
 as MITACS (Canada) and DAAD (Deutschland) provide well-articulated research options abroad. 
 Since these programs are associated with high GPA caps, people opt for cold-mailing professors 
@@ -44,7 +44,7 @@ UIUC, U of Wisconsin-Madison, Princeton etc.
 
 ####PLACEMENTS
 
-The placements are satisfactory albeit not good enough to make headlines. As far as the campus 
+The placements are satisfactory, albeit not good enough to make headlines. As far as the campus 
 placements are considered, students are eligible for almost all data analytic and consultancy firms 
 that visit in the 20-day window when the campus, quite ironically, reflects cold-war & bloodshed. For 
 some years now, Roorkee has been witness to scanty participation by core industries for the 
@@ -54,4 +54,4 @@ About 85% of the registered students found a job in the last placement season. P
 in consultancies such as ZS Associates, i3 consulting and several found a desk under the roof of IT 
 houses such as Wipro & TCS. Few of our graduates were recruited by Flipkart, and banking & finance 
 institutions such as Capital One, ICICI Lombard. There is abundance of opportunities for those who 
-deserve them but as the saying goes- _“thodi fight maarni padti hai!”_
+deserve them, but as the saying goes- _“thodi fight maarni padti hai!”_

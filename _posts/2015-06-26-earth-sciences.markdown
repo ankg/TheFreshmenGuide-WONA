@@ -26,7 +26,7 @@ To start from scratch, Earth Science is the systematic study of Earth and its va
 which include the building of mountains and occurrences of earthquakes. Geoscience finds 
 applications in a plethora of scientific fields, from reconstructing the history of Earth to mineral 
 and oil exploration, from expounding the biogeochemical cycling of elements to contributing in 
-environmental conservation. It forms a part of Planetary Science and geoscientists in agencies 
+environmental conservation. It forms a part of Planetary Science, and geoscientists in agencies 
 like NASA are now evaluating the feasibility of civilisations in celestial bodies.
 
 The Department of Earth Sciences at IIT Roorkee offers five-year integrated courses in two 
@@ -44,7 +44,7 @@ racked up by the combat between rising energy demands and growing environment co
 The fields of research in the branch can be broadly classified into academic and industrial. 
 Academic research deals with the core subjects like metamorphic, igneous petrology, fluid 
 inclusion and geochemistry. Industrial research deals with application of seismics, well logs, 
-structural geology, sedimentary petrology and stratigraphy. You will, of course spend the rest of 
+structural geology, sedimentary petrology and stratigraphy. You will, of course, spend the rest of 
 your stay at IITR deciphering what the above mentioned jargon means.
 
 Geoscientists play a key role in the oil and gas sector. With the increasing importance of coding 
@@ -54,6 +54,6 @@ planets, the field offers unlimited potential for growth. The pool of recruiters
 includes some of the world’s leading oilfield E&P services companies like Schlumberger, Royal 
 Dutch Shell, Cairn India and PSUs like ONGC. The initial pay scale varies from 7 to 21 lakhs per 
 annum, depending upon the type of job you pursue. Field engineering jobs fill your pockets 
-deeper than the data processing ones but equally emphasize on physical fitness. The average 
+deeper than the data processing ones, but equally emphasize on physical fitness. The average 
 salary figures can however be misleading, unduly surged up by a fraction of high paid ones.
 

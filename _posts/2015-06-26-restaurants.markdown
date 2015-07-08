@@ -75,7 +75,7 @@ It was only last year that Pizza Hut realized the growing stature of Roorkee and
 they could no longer ignore it the way McDonalds does. The result of this epiphany is an 
 occasionally crammed Pizza Hut Delivery outlet located near Olive. Turning Dominos’ pizza joint 
 monopoly into a duopoly, Pizza Hut is another place that makes you grateful for having that 
-worn out IITR Icard which guarantees you magical discounts all around Roorkee.  
+worn out IITR card which guarantees you magical discounts all around Roorkee.  
 
 _The person hired for writing restaurant reviews was fired at this point, when it was learnt that 
 he was - no disrespect intended - a lowly, lifeless geek. The reviews after this were continued by 
@@ -97,7 +97,7 @@ humble writer has had a balance of almost a 1000 bucks at the place, without onc
 complaint.
 
 ###Tintin
-Finding Tintin by yourself is a mammoth task, even Christopher Columbus couldn’t find it. 
+Finding Tintin by yourself is a mammoth task. 
 Located in an unassuming house in a remote corner of the remote place that Roorkee is, no one 
 even remotely beats Tintin’s mushroom burger. What it lacks in the form of ambience it makes 
 up for with its reasonable prices.  
@@ -114,8 +114,7 @@ _Upside_ - Cheap food.
 
 ###Sardarji ki dukaan (aka Bus-Tee for reasons unknown)
 The fact that this is the only place open at 3 am in the morning should be enough to make this 
-your favourite place in Roorkee. On top of that, it serves what is probably the best Maggi in 
-Roorkee, complete with butter floating on top.<br />
+your favourite place in Roorkee.<br />
 _Downside_ - Dragging your stoned self all the way to the bus stand since there are no 
 rickshaws that late at night.<br />
 _Upside_ - Munchies.  

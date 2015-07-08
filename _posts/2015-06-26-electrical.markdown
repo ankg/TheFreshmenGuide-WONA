@@ -40,7 +40,7 @@ Control and Instrumentation, Applied Electronics, Embedded Systems, VLSI Design.
 Many premier Educational and Research Institutions regularly admit electrical engineers as 
 graduate engineer trainees and Management Trainees to work on research projects. Research 
 areas in the branch include Communication and Networking, Power Systems, Signal and Image 
-Processing, Electromagnetics, etc. A Good GPA along with a graduate degree from IIT should 
+Processing, Electromagnetics, etc. A Good GPA, along with a graduate degree from IIT should 
 hold you in good stead, while applying for jobs or higher studies.
 
 There is no dearth of job opportunities in the public or private sector - such as Electricity 
@@ -52,7 +52,7 @@ consulting firms.
 Prominent companies which recruit from the college include: ABB, Bajaj International Private 
 Ltd., Bharat Heavy Electricals Limited (BHEL), PGCIL, IOCL, Trident, Centre for Electronics Design 
 and Technology, Crompton Greaves Limited (CGL), Siemens Ltd., Reliance power Ltd. and non-
-core companies like Goldman Sachs, Google, etc. And this is just the tip of the iceberg. Average 
+core companies like Goldman Sachs, Google, etc, and this is just the tip of the iceberg. Average 
 salary for an Electrical Engineer graduate is between 8-10 lakhs per annum, though a few 
 exceptional cases do reach a much higher sum.
 

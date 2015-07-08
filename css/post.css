@@ -20,7 +20,7 @@
 	margin-top: 40px;
 	color: #316882;
 	text-transform: uppercase;
-	font-size: 25px;
+	font-size: 1.56em;
 	letter-spacing: 1px;
 }
 .post .post-content h1{
@@ -50,4 +50,11 @@
 }
 .post .post-image{
 	display: block;
+}
+@media screen and (max-width: 800px){
+	.post{
+		max-width: 100% !important;
+		width: 100% !important;
+		font-size: 14px;
+	}
 }
