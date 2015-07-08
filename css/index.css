@@ -1,7 +1,10 @@
 @charset 'UTF-8';
 
-@font-face{font-family:'FontAwesome';src:url('font/fontawesome-webfont.eot?v=4.0.1');src:url('font/fontawesome-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=4.0.1') format('woff'),url('font/fontawesome-webfont.ttf?v=4.0.1') format('truetype'),url('font/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
-
+/*@font-face{font-family:'FontAwesome';src:url('font/fontawesome-webfont.eot?v=4.0.1');src:url('font/fontawesome-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=4.0.1') format('woff'),url('font/fontawesome-webfont.ttf?v=4.0.1') format('truetype'),url('font/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}*/
+@font-face{
+	font-family:'gotham';
+	src:url(/fonts/GothamRnd-Book.otf);
+}
 /*
 	Strongly Typed 1.1 by HTML5 UP
 	html5up.net | @n33co
@@ -25,7 +28,8 @@
 
 	body,input,textarea,select
 	{
-		font-family: 'Source Sans Pro';
+		/*font-family: 'Source Sans Pro';*/
+		font-family: 'gotham';
 		font-weight: 300;
 		color: #1F1F1F;
 	}
