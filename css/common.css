@@ -1,6 +1,6 @@
 @import url('normalize.css');
 body{
-	font-family: Cambria, Georgia, serif;
+	/*font-family: Cambria, Georgia, serif;*/
 	background: #f9f9f9 url(../images/bg.jpg);
 	font-weight: 300;
 	font-size: 15px;
@@ -38,4 +38,9 @@ body{
 }
 .ch-grid li:after, .ch-grid li:before {
 	outline: none;
+}
+@font-face{
+	font-family: gotham;
+	src:url(/fonts/GothamRnd-Book.otf);
+	/*src:url(/fonts/Bariol_Regular.otf);*/
 }
