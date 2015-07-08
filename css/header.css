@@ -8,17 +8,30 @@
 	margin-left: 0px;
 	margin-right: 0px;
 	padding-left: 15px;
-	padding-right: 35px;
 	width: 100%;
 }
 .site-title{
 	color: #316882 !important;
 	font-weight:600;
-	border-right: 3px dashed #316882;
-	padding-right: 2%;		
+}
+.site-nav{
+	position: relative;
+	right: 4%;
 }
 .site-nav .page-link{
 	color: #316882 !important;
 	font-weight:500;
 	font-size: 15px;
+}
+@media screen and (max-width: 800px){
+	body{
+		max-width: 100%;
+		font-size: 11px;
+	}
+	.site-title{
+		font-size: 1.4em;
+	}
+	.site-nav .page-link{
+		font-size: 0.8em !important;
+	}
 }

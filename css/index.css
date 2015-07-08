@@ -1317,3 +1317,13 @@
     		overflow: hidden;
 			left: 15%;
 		}
+
+
+
+/* media queries */
+@media screen and (max-width: 800px){
+	button{
+		max-width: 100% !important;
+		width: 100% !important;
+	}
+}
