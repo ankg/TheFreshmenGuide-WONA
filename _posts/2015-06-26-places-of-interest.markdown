@@ -48,7 +48,7 @@ hoped it would be complete before they graduated.
 
 ###Hobbies club: 
 
-Hidden in a discreet crevice behind the students club, the hobbies club houses the SDS labs, astronomy, 
+Hidden in a discreet crevice behind the students club, the hobbies club houses the SDSLabs, astronomy, 
 electronics and fine arts sections. It also caters to a number of miscellaneous fetishes like philately, 
 numismatics and gardening. The presence of the Thomso and Cogni offices in the same building ensures 
 a healthy buzz of activity around the year. 
