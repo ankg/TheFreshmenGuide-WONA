@@ -7,7 +7,6 @@ excerpt: A highly factual, precisely calculated dose of all that a faccha needs 
 class: ch-img-4
 cover: departments_cover.jpg
 --- 	
-<h1>Departments</h1>
 <div class="container">
     <section class="main">
       <ul class="ch-grid">
