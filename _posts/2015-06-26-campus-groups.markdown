@@ -177,26 +177,6 @@ beings too. A typical member of PAG looks like an ordinary humanoid with unusual
 activity in the cerebral cortex of brain. We don’t know what that is but it makes the person in 
 question extremely smart and totally unfit for social gatherings and parties.
 
-####IMG
-
-Formed as IITR’s website management group in 2000-01, IMG was formally established in the 
-spring of 2001 -02. It was set up as the first ever student organization to provide free and 
-friendly online resources (not porn) to the IITR junta. Acting as a gathering point for aspiring 
-web-developers, IMG quickly began to take responsibilities of Institute level projects such as 
-the official website of institute, registration online and other ancient entities which if we 
-mention, will only embarrass them. 13 years down the line, members of IMG have alienated 
-themselves from the clutches of the administration and function as an independent student 
-body (maintaining some vital apps of Placement Online and Academics).  
-
-_Their frequent debates, on who-kicks-whose-arse with members of yet- another-student-body 
-which also develops web-app, on Quora, provides healthy entertainment for people who are not 
-a part of either._ (If you’re in campus, check them out on [http://channeli.in](http://channeli.in))
-
-Both IMG and SDSLabs prove a rallying point for aspiring web-developers and programmers. 
-
-They enjoy grand chapos in their AC offices and make everyone jealous by posting about it on 
-facebook.
-
 ####SPIC-MACAY
 
 Society for Promotion of Indian Classical Music and Culture Amongst Youth, is an international 
