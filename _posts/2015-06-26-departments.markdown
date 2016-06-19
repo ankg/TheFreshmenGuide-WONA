@@ -17,7 +17,6 @@ cover: departments_cover.jpg
                 <div class="ch-item {{post.class}}">
                   <div class="ch-info">
                     <h3>{{post.title}}</h3>
-                    <p>{{post.excerpt}}</p>
                   </div>
                 </div>
              </a>
