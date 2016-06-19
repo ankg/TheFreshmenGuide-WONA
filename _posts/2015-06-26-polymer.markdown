@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Polymer Science and Technology"
+date:   2015-06-26 12:28:01
+categories: [departments]
+excerpt: 
+class: polymer
+cover: polymer_cover.jpg
+--- 	
+--------------------------------
+_In the ages gone by, this department slowly and steadily built up a reputation for taking up unsuspecting freshmen - joining IITR with the delusional hopes of riches and frolic in a big and happening campus - and then mercilessly relegating them to a life devoid of two square chapos a day to fill their bellies and repetitive bakar to temper their throats. No longer._
+
+The department of Polymer Science and Technology was and still is located in IITR’s Saharanpur Campus. Up until the last year, undergraduates in this department were housed and taught at the Saharanpur Campus. After repeated requests and [the great hunger strike of ’12](https://captnemo.in/wona/2013-02.pdf) for shifting students to the main campus at Roorkee, the administration decided to welcome the incoming batch of 2015-16 at Roorkee.
+
+Polymer Science and Technology is considered a specialised domain in the broader Chemical Engineering course, therefore having a few intersecting domains. Initial courses have a fair deal in common with chemical engineering and cover topics such as Fluid Mechanics, Chemical Processes, Heat Transfer, Chemical Engineering Thermodynamics and Reaction Engineering. After building a basic background in the first two years, courses deviate towards the niche areas that make up Polymer Technology. The final two years will be spent covering topics such as Polymer Blends, Composites, Rubbers and Elastomers, Polymer Physics and Chemistry. Students can expect a fair deal of Chemistry in this branch, with courses stressing violently and repeatedly on ways to obtain negative Gibbs free energy in a system.   
+
+The absence of a department at Roorkee has led to courses currently being managed by the Chemical Engineering and Chemistry Departments. For specialised courses, classes were conducted by teleconferencing from Saharanpur. Labs were partly managed by the two aforementioned departments, and partly by students making trips to Saharanpur.
+
+Core intern and placement opportunities in the department are fair, albeit not headline grabbing. Students from this department have been known to intern at places such as the Mitsui Chemical Group in Japan and GE plastics name a few. However, with the impetus given by a change in course structure and shifting to the Roorkee, much remains to unfold over the next few years.  
+

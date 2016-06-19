@@ -37,22 +37,20 @@ place here.
 
 ###MAC (Multi Activity Center):  
 
-Inaugurated on the day of Obama’s visit to India this year (obviously not by him), MAC is 
+Inaugurated on the day of Obama’s visit to India last year (obviously not by him), MAC was 
 intended to be the melting pot of cultural activities in IITR. This latest addition to gaon’s 
 imposing skyline has been the source of numerous tantalizing rumors in the five years that it 
 took to build as well as debates over its not so central location. Nevertheless, MAC houses an 
 ostentatious auditorium, rooms for indoor games, eateries, dedicated rooms for sections of the 
-cultural council and a clumsily built open air theatre. MAC is the reason behind growing 
+cultural council and a clumsily built open air theatre. We have also had a heavily subsidised Cafe Coffee Day outlet and an Amul Parlour in need of heavy subsidy as recent additions. MAC is the reason behind growing 
 property prices in the gaon, although it is rumored to be jinxed by thousands of pass outs who 
-hoped it would be complete before they graduated.
+hoped it would be complete before they graduate.
 
 ###Hobbies club: 
 
 Hidden in a discreet crevice behind the students club, the hobbies club houses the SDSLabs, astronomy, 
 electronics and fine arts sections. It also caters to a number of miscellaneous fetishes like philately, 
-numismatics and gardening. The presence of the Thomso and Cogni offices in the same building ensures 
-a healthy buzz of activity around the year. 
-The hobbies club hosts an annual exhibition that goes by the name of Shristi in the month of March.
+numismatics and gardening. The hobbies club hosts an annual exhibition that goes by the name of Shristi in the month of March.
 It can be easily spotted by the presence of sculptures in highly inappropriate positions, and miniature 
 dinosaur statuettes on its front lawn.
 
@@ -76,9 +74,9 @@ Gate, the place is worth the pain of waking up in the morning for sunrise. The s
 water flowing through the duct is a melody in itself. Unarguably the best place in Roorkee to 
 spend time without any disturbance.
 
-###Neelam(Movie Theatre?):
+###Neelam(Movie Theatre?)
 
-About 800m from the campus, there exists the only cinema hall (albeit barely) in Roorkee. It 
+About 800m from the campus, there exists the only cinema hall (albeit barely) inside Roorkee. It 
 usually screens B-grade Bollywood movies, whose names can put even Kanti Shah (of _Fauji Fauj 
 Mein, Padosi Mauj Mein_ fame) to start looking for a place to hide his embarrassed face. There 
 are exceptions to this rule, of course. Last time your authors <s>visited this theatre</s> passed this 
@@ -88,3 +86,12 @@ The theatre is cheap. Much cheaper than going to Haridwar or Dehradun to watch a
 While we would not recommend this as a place to go when you need to catch a Nolan or 
 Tarantino masterpiece (_supposing it showed one and assuming you are an adult_), you should try 
 to visit this at least once during your stay.
+
+###RR Cinemas
+The only multiplex in Roorkee, RR is about 4.5 kms or a 10 min journey from the campus. A recent phenomenon in Roorkee, RR desperately tries to satiate one’s desires to watch their favourite bollywood actor’s new release or hollywood thrillers in a comfortable setting at reasonable rates (still cheaper than Haridwar or Dehradun). The 3D quality is decent and you will also find some restaurants and cafes inside the hall. Recommended if you wish to go out for a movie with campus groups or peers. You may also be able to find solace in this place during weekends or post exams. An emerging favourite destination among IITR junta.
+
+###Cafe Coffee Day
+All speculation surrounding Michelin Star rated restaurants coming to R-land was put to an anticlimactic end last year with a heavily subsidized Cafe Coffee Day setting up shop in IITR. Inhabitants in pursuit of the high life were in complete awe of the branded 15-rupee samosa lined up in the shelves along with other supposedly cheap drinks on offer. However, the bubble burst soon and CCD is now frequented by couples and junta aiming to carry out intellectual conversations in the traditional coffee shop setting.
+
+###Tinkering Lab
+Just as the name suggests, this place is designed for IITR junta to tinker with ideas. Developed in association with Oxigen, with the grand vision of producing 100 entrepreneurs from the campus, the tinkering lab was inaugurated by Shri. Manohar Parrikar, Hon Defence minister on 22nd May 2016. In future, you are definitely going to witness fortune 500 companies talking about their origins in this lab(if you don’t know, there is a garage in which everything starts). Who knows you may even become the one who would do the talking. The lab houses top notch facilities for product design and development and also for providing incubation. Got any cool ideas? Well this place is meant for you.

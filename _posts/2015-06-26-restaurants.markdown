@@ -75,7 +75,7 @@ It was only last year that Pizza Hut realized the growing stature of Roorkee and
 they could no longer ignore it the way McDonalds does. The result of this epiphany is an 
 occasionally crammed Pizza Hut Delivery outlet located near Olive. Turning Dominos’ pizza joint 
 monopoly into a duopoly, Pizza Hut is another place that makes you grateful for having that 
-worn out IITR card which guarantees you magical discounts all around Roorkee.  
+worn out IITR Icard which guarantees you magical discounts all around Roorkee.  
 
 _The person hired for writing restaurant reviews was fired at this point, when it was learnt that 
 he was - no disrespect intended - a lowly, lifeless geek. The reviews after this were continued by 
@@ -85,8 +85,7 @@ than a Tribhovandas Bhimji Zaveri model. Anyway, these will help you a lot on da
 wallet has more air than a packet of Lays._
 
 ###Jain Uncle ki dukaan
-For directions ask for Gaylord’s, which incidentally is an ice-cream brand and doesn’t refer to 
-Lord Renly Baratheon. This small shack is barely visible amidst all the smoke of the (unofficially 
+This small shack is barely visible amidst all the smoke of the (unofficially 
 dubbed) Sutta Point. But if you do find it, it is going to help your broke ass a lot in the next 4 
 years. It dishes out hot and edible food starting from Rs. 12 for a dish (with unlimited refills) 
 and Rs. 3 for a roti. This is the place you eat at after you give that hot chick a chapo at Olive.<br />
@@ -97,7 +96,7 @@ humble writer has had a balance of almost a 1000 bucks at the place, without onc
 complaint.
 
 ###Tintin
-Finding Tintin by yourself is a mammoth task. 
+Finding Tintin by yourself is a mammoth task, even Christopher Columbus couldn’t find it. 
 Located in an unassuming house in a remote corner of the remote place that Roorkee is, no one 
 even remotely beats Tintin’s mushroom burger. What it lacks in the form of ambience it makes 
 up for with its reasonable prices.  
@@ -112,9 +111,9 @@ curd!<br />
 _Downside_ - Getting through the narrow lane. <br />
 _Upside_ - Cheap food.  
 
-###Sardarji ki dukaan (aka Bus-Tee for reasons unknown)
+###Sardarji ki dukaan (aka Bus-T, the T being for terminal it is presumed)
 The fact that this is the only place open at 3 am in the morning should be enough to make this 
-your favourite place in Roorkee.<br />
+your favourite place in Roorkee. On top of that, it serves what is probably the best Maggi in Roorkee, complete with butter floating on top.<br />
 _Downside_ - Dragging your stoned self all the way to the bus stand since there are no 
 rickshaws that late at night.<br />
 _Upside_ - Munchies.  
@@ -127,3 +126,9 @@ as Sizzlers) without having to go into the smelly streets of Old Roorkee.<br />
 _Downside_ - A 100 rupee rickshaw fare.<br />
 _Upside_ - An Afghani Chicken that is so loaded with cream that you’ll smell of it for the next 5 
 days.
+
+###Kathi Rolls
+The many Kathi Roll shacks just outside the Century Gate of IITR are outnumbered only by the plethora of options they have on their menu. A quick fix to your hunger, these rolls have the most succulent bites of paneer, veggies and chicken, with some delightful sauces. Take your pick!
+
+###Desi Tadka
+It would be a misnomer to call Desi Tadka a restaurant, thanks to food being served out of a van to eager diners sitting out in the open, driven to angst by a long wait for their turn, ridden with mosquitos and hunger. However, with generous portions of the best chicken and paneer dishes in town and a free bottle of your favourite cold drink, all you can say is 'worth it!' while you lick your fingers to get the hit of that brilliant gravy one last time.

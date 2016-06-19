@@ -41,20 +41,14 @@ The cultural society includes the following sections:
 
 ####Dramatics Section
 
-The broadway of IIT-R, you can easily identify the members of dramatics section by their 
-insanely loud voices and a deep, almost incomprehensible devotion to their scripts. Known for 
-their fierce perfection in plays that make people laugh, cry, angry and, in a few cases, scared 
-(we are talking about Badal Sarkar’s _Baaki Itihaas_ here), the dramatics section is known to 
-perform 3 stage plays and one street play every academic year.
+The broadway of IIT-R, you can easily identify the members of dramatics section by their insanely loud voices and a deep, almost incomprehensible devotion to their scripts. Known for their religious practice routines and a fierce perfection in plays and that make people laugh, cry, angry and, in a few cases, scared (we are talking about Badal Sarkar’s _Baaki Itihaas_ here), the dramatics section performs 3 stage plays and one street play every academic year.
 
-_Recruitment Cracker:_ Loud voice is a must. Rest are mere details.
 
-_Downside:_ You will have a hard time adjusting to the audience of IITR. They laugh in every play 
-at all the possible wrong moments, irrespective of the genre of the play.
+_Recruitment Cracker:_ The Dramatics section is perhaps one of the toughest Cultural Society groups to get into. Loud voice is a must. Rest are mere details.
 
 ####Choreography and Dance
 
-The Choreography section is perhaps one of the toughest Cultural Society groups to get into. If 
+If 
 you are a typical Indian dancer who reluctantly dances in baraat, this section is just not for you. 
 Although, saying that it requires prodigious dancing skills (that make Mithun da go Kya baat, 3 
 times) won’t be totally correct either. Choreo (in IITR lingo) trains part-time dancer IITians into 
@@ -70,9 +64,8 @@ _Recruitment Cracker:_ Being a good dancer (in others’ opinion) is more than e
 
 Music is a way of life in IITR. After being classified on the basis of gender, year, branch, group, 
 societies and number of Bun Samosas you can eat in a day, you can be classified on the basis of 
-the type of Music you listen to. Music Section of IITR consists of some very remarkable artists of 
-the campus who showcase their talents and semester-long hard work at shows like _Pehla 
-Nasha, Dhun and Swaranjali._ The diversity of artists in this section is quite unique. From Indian 
+the kind of Music you listen. Music Section of IITR consists of some very remarkable artists of 
+the campus who showcase their talents and semester-long hard work at shows like _Prelude, Dhun and Swaranjali._ The diversity of artists in this section is quite unique. From Indian 
 classical to western hard rock, this group has all kinds of musicians, each with a distinct taste in 
 Music. Selection in this group is based purely on skill.  
 
@@ -105,7 +98,7 @@ Angry Men, we would advise you to give these two groups a try.
 
 Under the aegis of cultural society, there are 2 magazines: WatchOut! and Kshitij.
 
-Watch Out! is the official news magazine of IIT Roorkee. As the name suggests, WoNA covers 
+Watch Out! is the official news body of IIT Roorkee. As the name suggests, WoNA covers 
 the happenings and ongoings of life at IITR along with the issues that surround the 
 administration, placements, academics, cultural council and bhawans. The frequency of 
 publishing is the same as Kshitij. The verticals in this magazine are: Editorial, News, Design, 
@@ -197,7 +190,7 @@ body (maintaining some vital apps of Placement Online and Academics).
 
 _Their frequent debates, on who-kicks-whose-arse with members of yet- another-student-body 
 which also develops web-app, on Quora, provides healthy entertainment for people who are not 
-a part of either._ (If you’re in campus, check them out on [http://channeli.in](http://channeli.in), intranet only)
+a part of either._ (If you’re in campus, check them out on [http://channeli.in](http://channeli.in))
 
 Both IMG and SDSLabs prove a rallying point for aspiring web-developers and programmers. 
 
@@ -225,7 +218,7 @@ worldwide, from Australia in 2011 to UK in 2013, and have managed to secure posi
 as 2 out of 149. The group is aiming at producing an electric vehicle for Formula Student-UK 
 2015.
 
-_Recruitment Cracker:_ Some knowledge of car parts and interest in cars will do the trick. If you 
+_Recruitment Cracker:_ Some knowledge of car parts and interests in Cars will do the trick. If you 
 are in Mech. Engg., then surely this group will be your extended family.
 
 _Downside:_ A lot of books are required to be read, which becomes quite difficult if you have 
@@ -241,6 +234,7 @@ competition can be judged from the fact that only one team from a country is all
 participate, with the host being allowed to field two teams. Participation in it requires the 
 application from all field of robotics with the emphasis on concept design, Robot programming, 
 etc to achieve a predefined goal based on a theme declared by host country.
+
 Team Robocon of IITR finished 5th in the national stage and won the award for Best Aesthetic 
 Robot.
 
@@ -264,6 +258,9 @@ _The other less popular aim, like any other campus group, is to have fun in the 
 members of this group work on projects that aim at studying some global economic, business 
 and social issues. They also organize quizzes, seminars and group discussions on the current 
 strategies and research in real world.
+
+####Geek Gazette
+Started 6 years ago as a technology oriented magazine, Geek Gazette functions under the aegis of the ACM IIT Roorkee Chapter. Growing out of their original aim, GG has expanded to include topics even obliquely related with technology. The functioning is similar to other magazines in the campus, with the magazine being divided into four verticals: Editorial, Finance, Design and Web Development. They come out with a self-financed semesterly issue which opines about topics that are covered in extensive detail in the boundless abyss famous around the world as the _internet_.
 
 ####Cinema Club
 

@@ -13,7 +13,7 @@ cover: research_cover.jpg
 
 \#Research
 
-_There is a theory which states that human beings have managed to exist on this planet for so long because of their infallible inquisition and ability to systematically investigate, study and reach explicable conclusions, henceforth referred to as research. There is another theory which states that since we are all ultimately going to die and spend the rest of our time in the universe as tiny carbon particles moving around in the limitless abyss of space, there isn't much point in existing at all._
+_There is a theory which states that human beings have managed to exist on this planet for so long because of their infallible inquisition and ability to systematically investigate, study and reach at explicable conclusions, henceforth referred to as research. There is another theory which states that since we are all ultimately going to die and spend the rest of our time in the universe as tiny carbon particles moving around in the limitless abyss of space, there isn't much point in existing at all._
 
 In R, research is given foremost importance. Unlike our sister IITs we do not believe  [in burning down laboratories on the prospect of doing an  experiment](http://www.hindustantimes.com/newdelhi/fire-in-iit-delhi-campus-building-no-injuries/article1-1187543.aspx); we here trust in our labs to getting burned down themselves. Every once in a while, one hears reports of some guy in the CS department coming up with a conclusive proof that P does indeed equal NP. But there isn't much follow up to that and people invariably assume that the thermostat in the department might have again stopped working.
 
@@ -21,10 +21,10 @@ _The most path breaking research of course happens in the Civil department. This
 
 Regardless, students of this department can be frequently spotted in the campus carrying yellow tripod stands mounted on which is a camera, or as they prefer to call it, ultra high resolution wide field long range camera with night vision and a measuring tape. They probably use these to measure something, though no one has ever bothered to stop and ask them what they’re doing.
 
-Regardless, we continue having tie-ups with leading corporate firms like IBM, Adobe, NVIDIA, TVS and several governmental and non-governmental organizations like the Ministry of Human Resource Development, CSIR, National Science Foundation USA and the Nuclear Power Corporation of India. IITR, like its sister IITs, does fall short of delivering the world class environment for undergraduate research. To compensate this, there are certain programmes by government for promoting the undergraduate research in campus, namely:
+Regardless, we continue having tie-ups with leading corporate firms like IBM, Adobe, NVIDIA, TVS and several governmental and non-governmental organizations like the Ministry of Human Resource Development, CSIR, National Science Foundation USA and the Nuclear Power Corporation of India. Even though many other associations for better research are into consideration in IITR, like its sister IITs, it falls short of delivering the world class environment for undergraduate research. To compensate this, there are certain programmes by government for promoting the undergraduate research in campus, namely:
 
 __SURA:__ Student Undergraduate Research Award. Financial support to students with outstanding work on research projects.
 
-__iNSPIRE:__ Scholarship awarded to the applied sciences students over the duration of their stay in IITR.  
+__iNSPIRE:__ Scholarship awarded to the applied sciences students over the duration of their stay in IITR. A minimum CGPA of 6 is required. 
 
 Although more will be revealed along your course of stay at IITR, you can always refer [here](../departments) for department specific information.
